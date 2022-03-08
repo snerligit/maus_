@@ -1,0 +1,1084 @@
+Geminal pairs 
+LX56.1 LX56.2
+LX118.1 LX118.2
+LX14.1 LX14.2
+LX96.1 LX96.2
+LX21.1 LX21.2
+LX25.2 LX25.1
+LX18.2 LX18.1
+LX72.1 LX72.2
+LX17.2 LX17.1
+LX132.1 LX132.2
+LX70.1 LX70.2
+LX53.1 LX53.2
+LX66.2 LX66.1
+LX40.1 LX40.2
+LX80.1 LX80.2
+LX63.1 LX63.2
+LX59.2 LX59.1
+LX36.2 LX36.1
+LX94.1 LX94.2
+LX12.1 LX12.2
+LX19.1 LX19.2
+VX69.2 VX69.1
+VX115.2 VX115.1
+VX91.2 VX91.1
+VX93.1 VX93.2
+LX85.1 LX85.2
+end geminals 
+start diagonals
+peak1			27.944	27.937	1.054	1.34E+07
+peak12			22.524	22.515	0.834	2.15E+08
+peak15			26.109	26.100	0.826	7.64E+07
+peak16			27.207	27.199	0.868	2.90E+07
+peak30			25.418	25.398	0.257	3.12E+07
+peak33			22.507	22.497	0.101	3.33E+07
+peak42			10.181	10.171	0.680	9.17E+07
+peak44			22.155	22.143	0.705	2.51E+07
+peak46			14.297	14.281	0.691	1.05E+08
+peak51			21.056	21.046	0.933	8.90E+07
+peak56			22.131	22.117	0.993	4.69E+07
+peak58			25.571	25.554	0.978	8.77E+07
+peak61			26.549	26.546	0.915	5.98E+07
+peak64			23.926	23.927	0.988	4.45E+07
+peak66			26.574	26.566	0.958	1.30E+08
+peak71			26.043	26.022	1.034	8.72E+07
+peak79			10.068	10.053	0.251	1.68E+08
+peak80			14.682	14.673	0.682	7.41E+07
+peak87			21.773	21.760	0.704	2.31E+07
+peak89			26.745	26.737	0.783	1.51E+07
+peak95			23.564	23.564	0.628	4.33E+07
+peak100			26.166	26.152	0.975	8.34E+07
+peak101			23.400	23.390	0.941	1.29E+08
+peak103			13.592	13.585	0.719	1.05E+08
+peak109			22.727	22.712	1.140	1.72E+08
+peak113			21.185	21.167	0.982	1.71E+08
+peak117			25.783	25.779	1.044	7.04E+07
+peak119			23.771	23.762	0.922	4.09E+07
+peak122			22.842	22.832	0.958	8.41E+07
+peak128			14.090	14.079	0.735	4.67E+07
+peak132			13.790	13.779	0.642	5.70E+07
+peak138			26.144	26.137	0.883	3.40E+07
+peak140			22.693	22.687	0.881	2.75E+07
+peak143			23.012	23.004	1.014	5.80E+07
+peak150			24.165	24.150	1.027	4.29E+07
+peak153			27.783	27.789	0.832	8.78E+06
+peak163			25.617	25.583	0.858	3.65E+07
+peak168			25.567	25.548	0.817	2.17E+08
+peak174			23.908	23.901	0.819	2.73E+08
+peak175			27.108	27.087	0.773	1.95E+07
+peak180			23.206	23.188	0.724	4.69E+07
+peak182			25.877	25.857	0.734	3.24E+07
+peak184			23.238	23.229	0.865	2.10E+08
+peak185			25.126	25.117	0.864	2.25E+08
+peak191			25.236	25.234	0.843	1.04E+08
+peak199			24.881	24.870	0.740	1.80E+07
+peak214			25.349	25.340	1.038	1.03E+08
+peak219			24.812	24.792	0.911	1.08E+08
+end diagonals
+No. of noe peaks in file,/Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/test_files/datasets/il2/long.csv: 289
+No. of diagonals in file,/Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/test_files/datasets/il2/long.csv: 48
+No. of noe peaks in file,/Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/test_files/datasets/il2/short.csv: 187
+No. of diagonals in file,/Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/test_files/datasets/il2/short.csv: 52
+Exclusively short NOE peaks:11
+Isolated NOE peaks:38
+Geminal pairs 
+LX56.1 LX56.2
+LX118.1 LX118.2
+LX14.1 LX14.2
+LX96.1 LX96.2
+LX21.1 LX21.2
+LX25.2 LX25.1
+LX18.2 LX18.1
+LX72.1 LX72.2
+LX17.2 LX17.1
+LX132.1 LX132.2
+LX70.1 LX70.2
+LX53.1 LX53.2
+LX66.2 LX66.1
+LX40.1 LX40.2
+LX80.1 LX80.2
+LX63.1 LX63.2
+LX59.2 LX59.1
+LX36.2 LX36.1
+LX94.1 LX94.2
+LX12.1 LX12.2
+LX19.1 LX19.2
+VX69.2 VX69.1
+VX115.2 VX115.1
+VX91.2 VX91.1
+VX93.1 VX93.2
+LX85.1 LX85.2
+end geminals 
+No. of noe peaks in file,/Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/test_files/datasets/il2/merged.csv: 300
+No. of diagonals in file,/Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/test_files/datasets/il2/merged.csv: 0
+start before list
+short_peak198 1
+short_peak207 2
+short_peak174 1
+peak337 2
+peak329 2
+peak331 3
+short_peak194 2
+peak316 3
+peak295 2
+peak294 2
+peak301 2
+peak282 2
+peak274 2
+peak286 2
+peak272 2
+peak299 2
+peak335 1
+peak321 4
+peak303 4
+peak265 4
+peak324 3
+peak323 3
+peak254 3
+peak319 2
+peak250 2
+peak246 1
+peak245 1
+peak244 1
+peak334 2
+peak243 1
+peak241 2
+peak240 2
+peak242 2
+peak302 2
+peak238 1
+peak237 2
+peak236 2
+peak232 1
+peak318 3
+peak227 1
+peak226 2
+peak283 3
+peak278 4
+peak235 1
+peak267 4
+peak322 2
+peak264 4
+peak225 4
+short_peak180 3
+peak290 3
+peak308 2
+peak223 2
+peak216 1
+peak215 1
+peak233 2
+peak211 2
+peak315 2
+peak205 2
+peak255 2
+short_peak192 2
+peak203 2
+peak200 2
+peak196 1
+short_peak46 1
+peak257 2
+peak217 1
+peak50 1
+peak228 2
+peak102 1
+peak186 2
+peak312 2
+peak139 1
+peak177 1
+short_peak205 2
+peak176 1
+peak125 2
+peak152 2
+peak173 1
+peak310 2
+peak172 2
+peak171 1
+peak123 4
+peak313 2
+peak76 4
+peak169 2
+peak164 1
+peak38 2
+peak77 2
+peak252 2
+peak157 4
+peak154 4
+peak251 3
+peak201 2
+peak167 2
+peak145 1
+peak142 1
+peak141 1
+peak212 4
+peak222 2
+peak179 2
+peak165 3
+peak133 3
+peak209 4
+peak271 2
+peak26 2
+peak126 4
+peak305 2
+peak190 2
+short_peak232 3
+peak327 4
+peak320 4
+peak188 2
+peak289 4
+peak197 1
+peak121 1
+peak34 2
+peak297 4
+peak269 4
+peak231 3
+peak115 2
+peak151 2
+peak259 3
+peak118 1
+peak273 2
+peak210 2
+peak134 4
+peak111 2
+peak108 2
+peak239 2
+peak314 2
+peak106 1
+peak304 4
+peak148 2
+peak105 2
+peak328 2
+peak288 2
+peak63 1
+peak287 2
+peak292 2
+peak275 2
+peak208 1
+peak127 3
+peak112 1
+peak96 1
+peak207 2
+peak330 3
+peak277 2
+peak55 2
+peak59 2
+peak189 2
+peak260 3
+peak19 1
+peak91 1
+peak298 2
+peak97 1
+peak146 2
+peak90 2
+peak136 3
+peak88 3
+peak86 1
+short_peak223 1
+peak81 2
+peak6 2
+peak84 2
+peak40 2
+peak256 2
+peak162 2
+peak135 2
+peak53 1
+peak224 3
+peak73 2
+peak281 2
+peak221 2
+peak98 1
+peak291 2
+peak300 2
+peak4 3
+peak37 2
+peak75 2
+peak131 2
+peak124 2
+peak325 4
+peak110 1
+peak47 2
+peak24 2
+peak72 2
+peak70 1
+peak67 1
+peak280 3
+peak159 2
+peak247 2
+peak293 2
+peak263 2
+peak57 1
+peak194 2
+peak23 2
+peak144 2
+peak170 1
+peak107 1
+peak54 2
+peak49 2
+peak253 3
+peak129 2
+peak285 2
+peak181 1
+peak92 2
+peak249 4
+peak65 2
+peak43 1
+peak104 2
+peak266 2
+peak48 2
+peak284 2
+peak306 2
+peak17 4
+peak268 2
+peak156 2
+peak262 2
+peak25 1
+peak137 3
+peak41 3
+peak45 2
+peak213 1
+peak311 2
+peak220 2
+peak270 4
+peak39 2
+peak160 4
+peak307 2
+peak31 1
+peak114 1
+peak32 2
+peak178 1
+peak326 4
+peak35 2
+peak193 4
+peak187 4
+peak27 1
+peak195 2
+peak18 2
+peak149 2
+peak198 2
+peak82 2
+peak147 4
+peak20 2
+peak68 2
+peak309 2
+peak276 2
+short_peak166 3
+peak13 1
+peak74 2
+peak258 2
+peak29 2
+peak206 2
+peak183 1
+peak60 1
+peak234 1
+peak166 2
+peak78 2
+peak296 2
+peak261 4
+peak9 2
+peak28 2
+peak83 2
+peak93 3
+peak22 2
+peak204 2
+peak36 4
+peak52 1
+peak99 2
+peak14 4
+peak11 1
+peak333 2
+peak62 2
+peak202 2
+peak130 2
+peak192 1
+peak21 4
+peak230 2
+peak120 4
+peak10 2
+peak279 2
+peak155 1
+peak5 3
+peak317 3
+peak85 2
+peak8 1
+peak336 2
+peak158 2
+peak69 2
+peak218 1
+peak116 2
+peak248 2
+peak7 1
+peak161 1
+peak332 4
+peak3 1
+peak94 2
+peak2 2
+end before list
+start after list
+short_peak198 1
+short_peak207 2
+short_peak174 1
+peak337 2
+peak329 2
+peak331 3
+short_peak194 2
+peak316 3
+peak326 2
+peak295 2
+peak294 2
+peak301 2
+peak282 2
+peak274 2
+peak286 2
+peak272 2
+peak299 2
+peak335 1
+peak321 4
+peak303 4
+peak265 4
+peak322 2
+peak264 2
+peak332 2
+peak296 2
+peak261 2
+peak324 3
+peak323 3
+peak278 2
+peak283 3
+peak254 3
+peak319 2
+peak250 2
+peak246 1
+peak245 1
+peak244 1
+peak334 2
+peak243 1
+peak241 2
+peak240 2
+peak242 2
+peak302 2
+peak238 1
+peak237 2
+peak236 2
+peak232 1
+peak318 3
+peak227 1
+peak226 2
+peak235 1
+peak267 2
+peak225 2
+short_peak180 3
+peak290 3
+peak308 2
+peak223 2
+peak216 1
+peak215 1
+peak233 2
+peak211 2
+peak315 2
+peak205 2
+peak255 2
+short_peak192 2
+peak200 2
+peak196 1
+short_peak46 1
+peak257 2
+peak217 1
+peak50 1
+peak228 2
+peak102 1
+peak186 2
+peak312 2
+peak139 1
+peak177 1
+short_peak205 2
+peak176 1
+peak125 2
+peak152 2
+peak173 1
+peak310 2
+peak172 2
+peak171 1
+peak123 4
+peak313 2
+peak76 2
+peak169 2
+peak164 1
+peak161 1
+peak77 2
+peak38 2
+peak252 2
+peak157 2
+peak154 2
+peak251 3
+peak201 2
+peak167 2
+peak145 1
+peak142 1
+peak141 1
+peak212 2
+peak222 2
+peak179 2
+peak165 3
+peak133 3
+peak121 1
+peak197 1
+peak209 4
+peak271 2
+peak26 2
+peak126 4
+peak305 2
+peak190 2
+short_peak232 3
+peak327 4
+peak320 4
+peak188 2
+peak289 4
+peak34 2
+peak297 4
+peak269 4
+peak231 3
+peak115 2
+peak151 2
+peak259 3
+peak118 1
+peak273 2
+peak210 2
+peak134 4
+peak111 2
+short_peak166 3
+peak276 2
+peak108 2
+peak239 2
+peak314 2
+peak106 1
+peak304 2
+peak148 2
+peak105 2
+peak328 2
+peak288 2
+peak63 1
+peak287 2
+peak292 2
+peak275 2
+peak208 1
+peak127 3
+peak112 1
+peak96 1
+peak207 2
+peak330 3
+peak277 2
+peak55 2
+peak59 2
+peak189 2
+peak260 3
+peak19 1
+peak91 1
+peak298 2
+peak97 1
+peak146 2
+peak90 2
+peak136 3
+peak86 1
+short_peak223 1
+peak81 2
+peak6 2
+peak84 2
+peak40 2
+peak256 2
+peak162 2
+peak135 2
+peak53 1
+peak224 3
+peak73 2
+peak281 2
+peak31 1
+peak221 2
+peak98 1
+peak291 2
+peak300 2
+peak4 3
+peak37 2
+peak75 2
+peak131 2
+peak124 2
+peak325 4
+peak110 1
+peak47 2
+peak24 2
+peak72 2
+peak70 1
+peak67 1
+peak280 3
+peak159 2
+peak247 2
+peak293 2
+peak263 2
+peak57 1
+peak194 2
+peak23 2
+peak144 2
+peak170 1
+peak107 1
+peak54 2
+peak49 2
+peak253 3
+peak129 2
+peak249 2
+peak285 2
+peak181 1
+peak92 2
+peak65 2
+peak43 1
+peak104 2
+peak266 2
+peak48 2
+peak284 2
+peak306 2
+peak17 2
+peak268 2
+peak156 2
+peak262 2
+peak25 1
+peak137 3
+peak41 3
+peak45 2
+peak213 1
+peak311 2
+peak220 2
+peak160 2
+peak88 3
+peak307 2
+peak114 1
+peak32 2
+peak178 1
+peak35 2
+peak193 4
+peak187 2
+peak27 1
+peak270 4
+peak39 2
+peak195 2
+peak18 2
+peak149 2
+peak14 2
+peak99 2
+peak198 2
+peak82 2
+peak147 2
+peak20 2
+peak68 2
+peak309 2
+peak13 1
+peak74 2
+peak258 2
+peak29 2
+peak52 1
+peak11 1
+peak333 2
+peak62 2
+peak203 2
+peak202 2
+peak130 2
+peak192 1
+peak21 2
+peak230 2
+peak120 4
+peak9 2
+peak10 2
+peak206 2
+peak183 1
+peak60 1
+peak234 1
+peak166 2
+peak78 2
+peak204 2
+peak36 2
+peak279 2
+peak155 1
+peak5 3
+peak317 3
+peak85 2
+peak8 1
+peak336 2
+peak158 2
+peak69 2
+peak218 1
+peak116 2
+peak248 2
+peak7 1
+peak28 2
+peak83 2
+peak93 3
+peak22 2
+peak3 1
+peak94 2
+peak2 2
+end after list
+Geminal pairs 
+LX56.1 LX56.2
+LX118.1 LX118.2
+LX14.1 LX14.2
+LX96.1 LX96.2
+LX21.1 LX21.2
+LX25.2 LX25.1
+LX18.2 LX18.1
+LX72.1 LX72.2
+LX17.2 LX17.1
+LX132.1 LX132.2
+LX70.1 LX70.2
+LX53.1 LX53.2
+LX66.2 LX66.1
+LX40.1 LX40.2
+LX80.1 LX80.2
+LX63.1 LX63.2
+LX59.2 LX59.1
+LX36.2 LX36.1
+LX94.1 LX94.2
+LX12.1 LX12.2
+LX19.1 LX19.2
+VX69.2 VX69.1
+VX115.2 VX115.1
+VX91.2 VX91.1
+VX93.1 VX93.2
+LX85.1 LX85.2
+end geminals 
+No. of noe peaks in file,/Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/test_files/datasets/il2/processed.csv: 299
+No. of diagonals in file,/Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/test_files/datasets/il2/processed.csv: 0
+effective_degree_connectivity: 3.950000
+Geminal pairs 
+LX56.1 LX56.2
+LX118.1 LX118.2
+LX14.1 LX14.2
+LX96.1 LX96.2
+LX21.1 LX21.2
+LX25.2 LX25.1
+LX18.2 LX18.1
+LX72.1 LX72.2
+LX17.2 LX17.1
+LX132.1 LX132.2
+LX70.1 LX70.2
+LX53.1 LX53.2
+LX66.2 LX66.1
+LX40.1 LX40.2
+LX80.1 LX80.2
+LX63.1 LX63.2
+LX59.2 LX59.1
+LX36.2 LX36.1
+LX94.1 LX94.2
+LX12.1 LX12.2
+LX19.1 LX19.2
+VX69.2 VX69.1
+VX115.2 VX115.1
+VX91.2 VX91.1
+VX93.1 VX93.2
+LX85.1 LX85.2
+end geminals 
+No. of 2D peaks:61
+No. of noe peaks in file,/Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/test_files/datasets/il2/processed.csv: 299
+No. of diagonals in file,/Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/test_files/datasets/il2/processed.csv: 0
+No. of used short NOE peaks:147
+No. of used long NOE peaks:152
+No. of used short NOE peaks after clustering:147
+No. of used long NOE peaks after clustering:152
+start crosspeaks
+     Label Annotation            C1         C2         H2            Intensity      Clusters    Symmetry matches
+     peak2      short     27.132000  27.914000   1.055000       3880000.000000        LX56.1       peak248
+     peak3      short     24.875000  27.936001   1.053000       5790000.000000        LX56.1              
+     peak4      short     24.193001  27.930000   1.053000       7120000.000000        LX56.1    peak5 short_peak166
+     peak5      short     27.938999  24.183001   0.987000       7020000.000000    LX53.2 VX93.2         peak4
+     peak6      short     27.155001  24.215000   0.987000       7520000.000000    LX53.2 VX93.2        peak18
+     peak7      short     25.788000  24.197001   0.986000      18300000.000000    LX53.2 VX93.2              
+     peak8      short     22.690001  24.134001   0.991000      12300000.000000    LX53.2 VX93.2              
+     peak9      short     10.072000  24.216000   0.987000       4890000.000000    LX53.2 VX93.2        peak77
+    peak10       long     27.214001  22.544001   0.832000       3210000.000000       LX132.2        peak20
+    peak11      short     26.107000  22.517000   0.834000      28500000.000000       LX132.2              
+    peak13      short     22.525000  26.103001   0.825000      24400000.000000       LX132.1              
+    peak14      short     27.207001  26.091000   0.825000       6670000.000000       LX132.1        peak17
+    peak17      short     26.117001  27.209999   0.869000       6980000.000000        LX14.1        peak14
+    peak18      short     24.198000  27.194000   0.868000       5750000.000000        LX14.1         peak6
+    peak19      short     23.764000  27.201000   0.867000      10100000.000000        LX14.1              
+    peak20       long     22.524000  27.202999   0.867000       3710000.000000        LX14.1        peak10
+    peak21       long     13.763000  27.195000   0.867000       1890000.000000        LX14.1       peak212
+    peak22       long     10.068000  27.230000   0.869000       2070000.000000        LX14.1        peak74
+    peak23       long     10.088000  23.754000   0.925000       2060000.000000        LX14.2        peak78
+    peak24       long     13.764000  23.732000   0.921000       2280000.000000        LX14.2       peak284
+    peak25      short     27.187000  23.754999   0.921000      14000000.000000        LX14.2              
+    peak26      short     26.139000  23.707001   0.918000       7210000.000000        LX14.2       peak149
+    peak27      short     22.506001  25.406000   0.258000       9100000.000000        LX59.2              
+    peak28       long     24.150999  25.377001   0.258000       4720000.000000        LX59.2        peak35
+    peak29      short     24.862000  25.386999   0.257000       7210000.000000        LX59.2       peak198
+    peak31      short     25.424000  22.496000   0.101000      12900000.000000        LX59.1              
+    peak32       long     24.861000  22.455000   0.101000       3000000.000000        LX59.1       peak293
+    peak34       long     13.744000  25.471001   0.256000       2190000.000000        LX59.2       peak167
+    peak35       long     25.441999  24.125000   0.991000       7510000.000000    LX53.2 VX93.2        peak28
+    peak36       long     25.860001  10.182000   0.681000       9710000.000000          IX86       peak160
+    peak37      short     25.629000  10.186000   0.681000      12000000.000000          IX86       peak166
+    peak38       long     23.983999  10.207000   0.681000       5110000.000000          IX86       peak307
+    peak39       long     23.198000  10.136000   0.681000       3770000.000000          IX86       peak309
+    peak40      short     22.149000  10.185000   0.682000       5800000.000000          IX86        peak45
+    peak41      short     13.798000  10.176000   0.681000      10600000.000000          IX86    peak137 peak253
+    peak43      short     25.475000  22.162001   0.707000      11700000.000000        LX63.2              
+    peak45      short     10.164000  22.121000   0.706000       3850000.000000        LX63.2        peak40
+    peak47      short     27.789000  14.296000   0.690000       5180000.000000          IX28       peak156
+    peak48       long     26.546000  21.062000   0.929000       3010000.000000       VX115.1        peak65
+    peak49      short     23.921000  21.059000   0.932000       8080000.000000       VX115.1        peak62
+    peak50      short     22.815001  21.032000   0.933000      20100000.000000       VX115.1              
+    peak52      short     22.993000  25.598000   0.981000       5890000.000000        LX40.1              
+    peak53      short     22.128000  25.555000   0.979000      19000000.000000        LX40.1              
+    peak54       long     22.996000  22.164000   0.994000       5390000.000000        LX40.2       peak144
+    peak55      short     22.826000  22.135000   0.994000       6600000.000000        LX40.2       peak222
+    peak57      short     25.570999  22.124001   0.993000      18100000.000000        LX40.2              
+    peak59      short     14.092000  26.555000   0.914000       8430000.000000        LX25.2       peak129
+    peak60      short     23.917999  26.551001   0.914000      15000000.000000        LX25.2              
+    peak62      short     21.048000  23.905001   0.989000       7980000.000000        LX25.1        peak49
+    peak63      short     26.546000  23.905001   0.989000      16300000.000000        LX25.1              
+    peak65       long     21.044001  26.518000   0.914000       3670000.000000        LX25.2        peak48
+    peak67      short     26.044001  26.547001   0.958000      24500000.000000        LX18.2              
+    peak68      short     26.573000  13.768000   0.764000      15600000.000000    IX129 IX24        peak69
+    peak69      short     13.765000  26.563000   0.958000       9350000.000000        LX18.2        peak68
+    peak70      short     26.573999  26.025000   1.033000      24200000.000000        LX18.1              
+    peak72      short     13.766000  26.084000   1.034000       4720000.000000        LX18.1       peak124
+    peak73       long     14.090000  26.024000   1.034000       2860000.000000        LX18.1       peak130
+    peak74       long     27.198999  10.051000   0.251000       3200000.000000         IX128        peak22
+    peak75       long     26.120001  10.103000   0.251000       2800000.000000         IX128       peak300
+    peak76       long     25.794001  10.034000   0.251000       3850000.000000         IX128       peak187
+    peak77      short     24.225000  10.051000   0.251000       7260000.000000         IX128         peak9
+    peak78       long     23.761999  10.065000   0.251000       3180000.000000         IX128        peak23
+    peak81       long     27.778999  14.678000   0.680000       3290000.000000         IX114       peak281
+    peak82      short     23.993999  14.669000   0.681000      10900000.000000         IX114       peak162
+    peak83       long     23.577999  14.681000   0.681000       5440000.000000         IX114       peak256
+    peak84      short     22.962999  14.662000   0.682000      12700000.000000         IX114       peak220
+    peak85       long     25.629000  14.724000   0.683000       3970000.000000         IX114       peak298
+    peak86      short     26.745001  21.764000   0.704000       8020000.000000        LX21.2              
+    peak88      short     13.801000  21.796000   0.704000       6480000.000000        LX21.2    peak127 peak136
+    peak90       long     26.110001  26.789000   0.784000       4290000.000000        LX21.1       peak146
+    peak91      short     21.767000  26.742001   0.783000       6490000.000000        LX21.1              
+    peak92       long     14.081000  26.768999   0.781000       2200000.000000        LX21.1       peak195
+    peak93       long     13.763000  26.709999   0.786000       2230000.000000        LX21.1    peak260 peak330
+    peak94       long     26.179001  23.587999   0.628000       3660000.000000        VX69.2       peak287
+    peak96      short     22.980000  23.562000   0.628000      12400000.000000        VX69.2              
+    peak97       long     23.555000  23.010000   0.952000      15600000.000000        VX69.1              
+    peak98      short     23.398001  26.150999   0.975000      26400000.000000        LX72.1              
+    peak99       long     22.983999  26.153999   0.976000       4240000.000000        LX72.1       peak288
+   peak102      short     26.167999  23.393999   0.941000      21400000.000000        LX72.2              
+   peak104       long     26.142000  13.567000   0.720000       3540000.000000          IX92       peak306
+   peak105      short     24.819000  13.597000   0.720000       5770000.000000          IX92       peak210
+   peak106       long     24.132000  13.588000   0.717000       3250000.000000          IX92              
+   peak107       long     22.708000  13.610000   0.720000       3730000.000000          IX92              
+   peak108       long     25.128000  22.680000   1.142000       6230000.000000        VX91.2       peak115
+   peak110      short     21.188000  22.711000   1.140000      52500000.000000        VX91.2              
+   peak111       long     25.127001  21.177000   0.982000       3170000.000000        VX91.1       peak116
+   peak112      short     22.730000  21.167000   0.982000      37600000.000000        VX91.1              
+   peak114      short     23.237000  25.120001   0.864000      38200000.000000        LX94.1              
+   peak115       long     22.719000  25.091000   0.865000       5560000.000000        LX94.1       peak108
+   peak116       long     21.197001  25.132000   0.862000       3160000.000000    LX94.1 LX85.1       peak111
+   peak118      short     24.216999  25.777000   1.044000      18900000.000000        LX53.1              
+   peak120       long     27.173000  25.792000   1.045000       4570000.000000        LX53.1    peak269 peak297
+   peak121      short     21.047001  22.816000   0.959000      22500000.000000    VX115.2 LX118.2              
+   peak123       long     23.941000  22.844999   0.957000      11300000.000000    VX115.2 VX69.1 LX118.2    peak289 peak320 peak327
+   peak124      short     26.052999  13.772000   0.764000      10700000.000000    IX129 IX24        peak72
+   peak125      short     25.252001  13.808000   0.751000       4640000.000000    IX129 IX24       peak190
+   peak126      short     24.820999  13.782000   0.750000       8180000.000000    IX129 IX24    peak193 peak209
+   peak127      short     21.781000  13.827000   0.751000       4660000.000000    IX129 IX24        peak88
+   peak129      short     26.555000  14.081000   0.736000      13400000.000000         IX122        peak59
+   peak130       long     26.051001  14.069000   0.736000       4600000.000000         IX122        peak73
+   peak131      short     23.909000  14.060000   0.734000       5120000.000000         IX122       peak247
+   peak133      short     25.483999  13.776000   0.641000       4830000.000000          IX89       peak165
+   peak134      short     24.815001  13.781000   0.642000       7420000.000000          IX89    peak193 peak209
+   peak135      short     22.149000  13.785000   0.642000       3890000.000000          IX89       peak189
+   peak136      short     21.761000  13.772000   0.641000       6180000.000000          IX89        peak88
+   peak137      short     10.184000  13.771000   0.643000       5880000.000000          IX89        peak41
+   peak139      short     24.823000  26.139999   0.883000       9190000.000000        LX17.2              
+   peak141      short     24.127001  22.688000   0.883000      11000000.000000        VX93.1              
+   peak142      short     25.351000  23.010000   1.015000      22600000.000000        LX36.1              
+   peak144       long     22.129999  22.999001   1.015000       5200000.000000        LX36.1        peak54
+   peak145       long     25.587000  23.033001   1.015000       8280000.000000        LX36.1              
+   peak146       long     26.750000  26.141001   0.883000       3850000.000000        LX17.2        peak90
+   peak147      short     27.134001  26.121000   0.883000       4410000.000000        LX17.2       peak249
+   peak148      short     24.180000  26.113001   0.881000       3360000.000000        LX17.2       peak279
+   peak149      short     23.784000  26.125999   0.883000       4740000.000000        LX17.2        peak26
+   peak151      short     27.931000  22.672001   0.883000       3510000.000000        VX93.1       peak202
+   peak152       long     24.924000  22.723000   0.883000       4720000.000000        VX93.1       peak201
+   peak154       long     23.915001  27.756001   0.833000       4230000.000000       LX118.1       peak157
+   peak155      short     22.846001  27.795000   0.832000       7140000.000000       LX118.1              
+   peak156      short     14.294000  27.790001   0.828000       3530000.000000       LX118.1        peak47
+   peak157       long     27.823000  23.923000   0.988000       5250000.000000        LX25.1       peak154
+   peak158       long     26.721001  25.393999   0.256000       2090000.000000        LX59.2       peak311
+   peak159      short     13.782000  25.815001   0.734000       3230000.000000        LX70.1       peak252
+   peak160       long     10.181000  25.840000   0.735000       4690000.000000        LX70.1        peak36
+   peak161      short     25.603001  23.983999   0.861000      10600000.000000        LX66.1              
+   peak162      short     14.685000  23.983999   0.863000       7500000.000000        LX66.1        peak82
+   peak164      short     23.995001  25.612000   0.861000      11000000.000000    LX66.2 LX63.1              
+   peak165      short     13.780000  25.600000   0.861000       5420000.000000    LX66.2 LX63.1    peak133 peak251
+   peak166      short     10.177000  25.618000   0.864000       6480000.000000    LX66.2 LX63.1        peak37
+   peak167       long     25.620001  13.826000   0.642000       4350000.000000          IX89        peak34
+   peak169       long     24.811001  25.576000   0.818000       9780000.000000        LX80.1       peak313
+   peak170      short     23.908001  25.545000   0.817000      30800000.000000        LX80.1              
+   peak171      short     25.568001  23.903999   0.819000      39800000.000000        LX80.2              
+   peak172       long     25.268000  23.917000   0.819000       5240000.000000        LX80.2       peak310
+   peak173       long     24.819000  23.915001   0.820000       5110000.000000        LX80.2              
+   peak176      short     24.174999  27.090000   0.772000      13900000.000000        LX96.1              
+   peak177      short     23.773001  27.094000   0.771000       3600000.000000        LX96.1              
+   peak178      short     25.875000  23.195000   0.724000      11600000.000000        LX70.2              
+   peak179       long     23.947001  23.166000   0.725000       4350000.000000        LX70.2       peak312
+   peak181      short     23.200001  25.862000   0.735000      10300000.000000        LX70.1              
+   peak183      short     25.122999  23.228001   0.865000      45300000.000000        LX94.2              
+   peak186       long     23.983999  25.819000   0.737000       3600000.000000        LX70.1       peak291
+   peak187       long     10.060000  25.792999   1.044000       2850000.000000        LX53.1        peak76
+   peak188       long     23.780001  25.823000   1.045000       3110000.000000        LX53.1       peak314
+   peak189      short     13.793000  22.136999   0.706000       1860000.000000        LX63.2       peak135
+   peak190      short     13.812000  25.238001   0.842000       4380000.000000        LX85.1       peak125
+   peak192      short     24.813000  25.237000   0.843000      27900000.000000    LX94.1 LX85.1              
+   peak193      short     13.805000  24.799000   0.911000       5050000.000000    LX12.1 LX85.2    peak126 peak134
+   peak194       long     14.339000  14.715000   0.682000       6980000.000000         IX114       peak228
+   peak195       long     26.722000  14.093000   0.734000       4080000.000000         IX122        peak92
+   peak196      short     27.934000  24.863001   0.741000       7600000.000000        LX56.2              
+   peak197      short     26.141001  24.830000   0.739000       4310000.000000        LX56.2              
+   peak198      short     25.426001  24.870001   0.742000       5800000.000000        LX56.2        peak29
+   peak200       long     24.191999  24.858999   0.741000       4470000.000000        LX56.2       peak276
+   peak201       long     22.695999  24.863001   0.738000       3370000.000000        LX56.2       peak152
+   peak202      short     22.695999  27.871000   1.054000       3080000.000000        LX56.1       peak151
+   peak203      short     26.134001  27.941999   1.054000       2380000.000000        LX56.1    short_peak192
+   peak204       long     25.747999  27.924999   1.055000       1840000.000000        LX56.1       peak255
+   peak205      short     25.413000  26.118999   0.883000       2960000.000000        LX17.2       peak277
+   peak206       long     27.104000  24.813999   0.874000       1860000.000000    LX12.1 LX17.1       peak315
+   peak207      short     26.745001  24.839001   0.875000       4060000.000000    LX12.1 LX17.1    short_peak205
+   peak208      short     26.153000  24.837000   0.876000      10800000.000000    LX12.1 LX17.1              
+   peak209      short     13.778000  24.843000   0.878000       4690000.000000    LX12.1 LX17.1    peak126 peak134
+   peak210      short     13.589000  24.826000   0.876000       3880000.000000    LX12.1 LX17.1       peak105
+   peak211      short     21.778000  24.823000   0.875000       2970000.000000    LX12.1 LX17.1       peak233
+   peak212       long     27.202999  13.760000   0.765000       4160000.000000    IX129 IX24        peak21
+   peak213      short     25.237000  24.834000   0.911000      24700000.000000    LX12.1 LX85.2              
+   peak215      short     23.011999  25.340000   1.038000      19400000.000000        LX36.2              
+   peak216      short     22.132000  25.400999   1.036000       3340000.000000        LX36.2              
+   peak217      short     27.120001  24.158001   1.028000      12200000.000000        LX96.2              
+   peak218      short     25.785999  24.171000   1.025000       6150000.000000        LX96.2              
+   peak220      short     14.690000  22.910999   0.955000      10400000.000000    VX115.2 VX69.1 LX118.2        peak84
+   peak221      short     14.299000  22.837999   0.957000       7660000.000000    VX115.2 VX69.1 LX118.2       peak230
+   peak222      short     22.132000  22.837000   0.958000       8860000.000000    VX115.2 VX69.1 LX118.2        peak55
+   peak223       long     21.785999  22.844999   0.960000       4880000.000000    VX115.2 VX69.1 LX118.2       peak257
+   peak224      short     25.583000  22.841999   0.957000       6550000.000000    VX115.2 VX69.1 LX118.2    peak290 short_peak180
+   peak225       long     25.372999  22.844999   0.960000       4110000.000000    VX115.2 VX69.1 LX118.2       peak267
+   peak226       long     26.570999  22.848000   0.957000       3980000.000000    VX115.2 VX69.1 LX118.2       peak268
+   peak227      short     27.784000  22.839001   0.958000       8510000.000000    VX115.2 VX69.1 LX118.2              
+   peak228       long     14.684000  14.315000   0.692000      16300000.000000          IX28       peak194
+   peak230      short     22.818001  14.273000   0.691000      10300000.000000          IX28       peak221
+   peak231       long     23.903999  14.331000   0.691000       5530000.000000          IX28       peak317
+   peak232      short     14.292000  23.907000   0.988000       3930000.000000        LX25.1              
+   peak233      short     24.826000  21.760000   0.703000       4070000.000000        LX21.2       peak211
+   peak234       long     24.832001  26.813999   0.783000       2500000.000000        LX21.1              
+   peak235      short     22.153000  25.503000   0.872000      10300000.000000    LX66.2 LX63.1              
+   peak236       long     22.231001  22.472000   0.101000       5150000.000000        LX59.1       peak237
+   peak237       long     22.507000  22.117001   0.703000       4380000.000000        LX63.2       peak236
+   peak238       long     22.700001  23.094999   0.866000       4350000.000000        LX94.2              
+   peak239       long     14.683000  23.184999   0.724000       4460000.000000        LX70.2       peak242
+   peak240      short     14.298000  23.198999   0.723000       4850000.000000        LX70.2       peak241
+   peak241      short     23.200001  14.315000   0.691000       5450000.000000          IX28       peak240
+   peak242       long     23.194000  14.641000   0.681000       6130000.000000         IX114       peak239
+   peak243      short     24.014999  24.936001   0.896000      55100000.000000    LX12.1 LX85.2              
+   peak244      short     24.948999  24.003000   0.888000      62400000.000000        LX12.2              
+   peak245      short     24.544001  24.375999   0.906000      93400000.000000        LX19.2              
+   peak246      short     24.368000  24.579000   0.933000     115000000.000000        LX19.1              
+   peak247      short     14.085000  23.893999   0.987000       2930000.000000        LX25.1       peak131
+   peak248      short     27.934999  27.058001   0.773000       3770000.000000        LX96.1         peak2
+   peak249      short     26.148001  27.093000   0.773000       3440000.000000        LX96.1       peak147
+   peak250       long     23.207001  13.801000   0.750000       4340000.000000    IX129 IX24       peak319
+   peak251      short     25.650999  13.790000   0.752000       6340000.000000    IX129 IX24       peak165
+   peak252      short     25.875000  13.790000   0.752000       6710000.000000    IX129 IX24       peak159
+   peak253      short     10.182000  13.836000   0.752000       5150000.000000    IX129 IX24        peak41
+   peak254       long     13.782000  22.853001   0.959000       4890000.000000    VX115.2 VX69.1 LX118.2    peak280 peak283
+   peak255       long     27.944000  25.809999   1.043000       2310000.000000        LX53.1       peak204
+   peak256       long     14.685000  23.563999   0.630000       3150000.000000        VX69.2        peak83
+   peak257       long     22.837000  21.773001   0.704000       5690000.000000        LX21.2       peak223
+   peak258       long     25.480000  10.198000   0.681000       7390000.000000          IX86       peak285
+   peak259       long     24.827000  10.167000   0.682000       3060000.000000          IX86       peak324
+   peak260       long     26.740999  13.828000   0.643000       2570000.000000          IX89        peak93
+   peak261       long     27.101999  13.617000   0.720000       3150000.000000          IX92       peak332
+   peak262       long     21.011000  22.105000   0.994000       3020000.000000        LX40.2       peak263
+   peak263       long     22.125000  21.075001   0.932000       2710000.000000       VX115.1       peak262
+   peak264       long     25.440001  22.684000   0.880000       4640000.000000        VX93.1       peak278
+   peak265       long     24.079000  22.459000   0.102000       2060000.000000        LX59.1    peak321 peak325
+   peak266       long     26.145000  24.157000   0.990000       4510000.000000    LX53.2 VX93.2       peak299
+   peak267       long     22.730000  25.424999   0.872000       3580000.000000        LX63.1       peak225
+   peak268       long     22.832001  26.500999   0.914000       2980000.000000        LX25.2       peak226
+   peak269       long     25.766001  27.073000   0.774000       2630000.000000        LX96.1    peak120 peak270
+   peak270       long     27.103001  25.754000   1.045000       3850000.000000        LX53.1    peak269 peak297
+   peak271       long     22.136000  14.273000   0.691000       1960000.000000          IX28       peak322
+   peak272       long     21.048000  14.273000   0.690000       2360000.000000          IX28       peak286
+   peak273       long     21.048000  22.948000   1.017000       2100000.000000        LX36.1       peak333
+   peak274      short     14.291000  22.995001   1.010000       2320000.000000        LX36.1       peak275
+   peak275      short     23.007999  14.342000   0.691000       7730000.000000          IX28       peak274
+   peak276       long     24.856001  24.136999   0.990000       7870000.000000    LX53.2 VX93.2       peak200
+   peak277      short     26.146999  25.424999   0.258000       2610000.000000        LX59.2       peak205
+   peak278       long     22.670000  25.424999   0.258000       4870000.000000        LX59.2       peak264
+   peak279      short     26.125000  24.179001   1.026000       2780000.000000        LX96.2       peak148
+   peak280       long     22.792999  13.768000   0.641000       2150000.000000          IX89       peak254
+   peak281       long     14.691000  27.737000   0.828000       2120000.000000       LX118.1        peak81
+   peak282       long     23.938000  13.744000   0.750000       5590000.000000    IX129 IX24       peak308
+   peak283       long     22.843000  13.753000   0.749000       4810000.000000    IX129 IX24       peak254
+   peak284       long     23.764000  13.766000   0.764000       3530000.000000    IX129 IX24        peak24
+   peak285       long     10.170000  25.483999   0.872000       4090000.000000    LX66.2 LX63.1       peak258
+   peak286       long     14.287000  21.046000   0.935000       2030000.000000       VX115.1       peak272
+   peak287       long     23.555000  26.201000   0.976000       7460000.000000        LX72.1        peak94
+   peak288       long     26.149000  22.909000   0.952000       4590000.000000    VX115.2 VX69.1 LX118.2        peak99
+   peak289       long     22.975000  23.983999   0.864000       4550000.000000        LX66.1       peak123
+   peak290      short     22.841000  25.545000   0.981000       3060000.000000        LX40.1       peak224
+   peak291       long     25.860001  23.987000   0.860000       4500000.000000        LX66.1       peak186
+   peak292       long     25.875999  25.245001   0.844000       1560000.000000    LX94.1 LX85.1       peak334
+   peak293       long     22.500000  24.872999   0.740000       1930000.000000        LX56.2        peak32
+   peak294       long     22.525000  26.738001   0.781000       1500000.000000        LX21.1       peak295
+   peak295       long     26.700001  22.483999   0.103000       1420000.000000        LX59.1       peak294
+   peak296       long     22.537001  25.681999   1.039000       2330000.000000        LX53.1       peak302
+   peak297       long     25.796000  27.209000   0.867000       2450000.000000        LX14.1    peak120 peak270
+   peak298       long     14.671000  25.665001   0.864000       1960000.000000        LX66.2        peak85
+   peak299       long     24.218000  26.091999   0.826000       2050000.000000       LX132.1       peak266
+   peak300       long     10.078000  26.062000   0.824000       1430000.000000       LX132.1        peak75
+   peak301       long     10.062000  22.511000   0.834000       1570000.000000       LX132.2       peak305
+   peak302       long     25.809999  22.528000   0.836000       3130000.000000       LX132.2       peak296
+   peak303       long     24.204000  22.511000   0.834000       1800000.000000       LX132.2    peak321 peak325
+   peak304       long     23.788000  27.877001   1.055000       2230000.000000        LX56.1       peak326
+   peak305       long     22.521000  10.017000   0.249000       1990000.000000         IX128       peak301
+   peak306       long     13.594000  26.139000   0.881000       1530000.000000        LX17.2       peak104
+   peak307       long     10.190000  23.969000   0.866000       2430000.000000    LX12.2 LX66.1        peak38
+   peak308       long     13.807000  23.989000   0.867000       1900000.000000    LX12.2 LX66.1       peak282
+   peak309       long     10.177000  23.158001   0.718000       2860000.000000        LX70.2        peak39
+   peak310       long     23.926001  25.233999   0.843000       3770000.000000    LX94.1 LX85.1       peak172
+   peak311       long     25.431000  26.715000   0.784000       1770000.000000        LX21.1       peak158
+   peak312       long     23.191999  23.983000   0.863000       2250000.000000        LX66.1       peak179
+   peak313       long     25.565001  24.808001   0.910000       9640000.000000    LX12.1 LX85.2       peak169
+   peak314       long     25.780001  23.726999   0.920000       3600000.000000        LX14.2       peak188
+   peak315       long     24.839001  27.090000   0.771000       2190000.000000        LX96.1       peak206
+   peak316      short     23.233999  22.660999   0.880000       4100000.000000        VX93.1    short_peak232
+   peak317       long     14.324000  23.951000   0.864000       1210000.000000        LX66.1    peak231 peak318
+   peak318       long     23.990000  14.331000   0.691000       3290000.000000          IX28       peak317
+   peak319       long     13.774000  23.194000   0.726000       2620000.000000        LX70.2       peak250
+   peak320       long     22.853001  23.983999   0.863000       3600000.000000        LX66.1       peak123
+   peak321       long     22.474001  24.084999   0.989000       3220000.000000    LX53.2 VX93.2    peak265 peak303
+   peak322       long     14.312000  22.117001   0.996000       1620000.000000        LX40.2       peak271
+   peak323       long     24.849001  10.159000   0.250000       1800000.000000         IX128       peak324
+   peak324       long     10.055000  24.819000   0.739000       1390000.000000        LX56.2    peak259 peak323
+   peak325       long     22.524000  24.216000   0.991000       3850000.000000    LX53.2 VX93.2    peak265 peak303
+   peak326       long     27.941999  23.740000   0.920000       2110000.000000        LX14.2       peak304
+   peak327       long     22.757999  23.931999   0.988000       8710000.000000        LX25.1       peak123
+   peak328       long     22.834000  14.097000   0.736000       3180000.000000         IX122       peak336
+   peak329       long     27.782000  13.768000   0.752000       2420000.000000    IX129 IX24       peak337
+   peak330       long     26.570999  13.770000   0.751000       6660000.000000    IX129 IX24        peak93
+   peak331      short     23.233000  22.709000   1.141000       2250000.000000        VX91.2    short_peak232
+   peak332       long     13.595000  27.084999   0.772000        894000.000000        LX96.1       peak261
+   peak333       long     23.002001  21.021000   0.933000       2640000.000000       VX115.1       peak273
+   peak334       long     25.271999  25.857000   0.735000       3270000.000000        LX70.1       peak292
+   peak335       long     24.805000  25.811001   0.734000       2590000.000000        LX70.1              
+   peak336       long     14.088000  22.808001   0.956000       2680000.000000    VX115.2 LX118.2       peak328
+   peak337       long     13.799000  27.743999   0.832000       2070000.000000       LX118.1       peak329
+short_peak46      short     23.580000  22.878000   0.956000       6060000.000000    VX115.2 VX69.1 LX118.2              
+short_peak166      short     27.924000  24.157000   1.024000       1090000.000000        LX96.2         peak4
+short_peak174      short     27.891001  24.856001   0.880000       1060000.000000    LX12.1 LX17.1              
+short_peak180      short     22.712000  25.641001   0.863000       1710000.000000        LX66.2       peak224
+short_peak192      short     27.969000  26.160000   0.880000       1610000.000000        LX17.2       peak203
+short_peak194      short     26.914000  26.184999   0.883000       2890000.000000        LX17.2    short_peak207
+short_peak198      short     22.591999  26.117001   0.884000       1490000.000000        LX17.2              
+short_peak205      short     24.867001  26.712000   0.780000       1230000.000000        LX21.1       peak207
+short_peak207      short     26.287001  27.011999   0.771000       3000000.000000        LX96.1    short_peak194
+short_peak223      short     25.617001  23.976000   0.886000       3160000.000000        LX12.2              
+short_peak232      short     22.726000  23.226000   0.866000       7780000.000000        LX94.2    peak316 peak331
+end crosspeaks

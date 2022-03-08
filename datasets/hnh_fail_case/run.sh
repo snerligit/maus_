@@ -1,0 +1,2 @@
+/Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/src/main /Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/test_files/datasets/hnh_fail_case A ilv 0 HNH_2D.list false false 3 10.0 4.0 HNH_300ms_3D.list HNH_50ms_3D.list 0.1 0.01 0.1 0.02 0.1 0.02 3 false false false true false false false false HNH_6o56_scored_857022a921a54321bd88762209c326cd_0001.pdb
+/anaconda3/bin/python3 /Users/snerli/Work/UCSC/Research/maus/code_rewrite/maus_v2/scripts/output_summary.py 

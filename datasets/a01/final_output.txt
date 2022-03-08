@@ -1,0 +1,655 @@
+Thank you for using MAUS. If you have any questions or face any issues with this software, please e-mail methyl@ucsc.edu.
+
+Below is the input data you submitted:
+PDB file:A01-6AT9-relax-ensemble.pdb
+PDB chain:A
+PDB file type:nmr
+Labeling scheme:ailv
+Side chain labeling scheme:none
+2D HMQC reference file:AILV_HLA-A0101_2D_methylSOFAST-final-stereo.list
+Residue type/s:manual
+Geminal NOEs:manual
+Known assignments:None
+Long mixing time NOE file:AILV_HLA-A0101_300ms_3D_CCH_methylSOFAST-final.list
+Short mixing time NOE file:AILV_HLA-A0101_50ms_3D_CCH_methylSOFAST-final.list
+Maximum NOE distance for long-range NOEs:10
+Maximum NOE distance for short-range NOEs:7.2
+Diagonal NOEs tolerances:0.1
+Symmetry tolerances:0.15
+Clustering tolerances:0.15, 0.02
+Are the input assignments classified as stereospecific?:no
+
+Data-to-constraints summary
+======================
+# 2D peaks: 87
+Total NOEs: 510
+# diagonal NOEs: 95
+# NOEs without symmetry matches before/after reduction of complex components: 24/28
+# NOEs in geminal clusters: 68
+# NOEs from simple components of size 2 before/after reduction of complex components: 224/230
+# NOEs from simple components of size 3 before/after reduction of complex components: 15/6
+# NOEs that form complex components before/after reduction of complex components: 89/83
+# NOEs used by MAUS: 236
+Effective degree connectivity: 2.981818
+
+NOE peaks information
+========================
+Diagonal NOEs
+===============
+peak1			20.728	20.728	0.881	45185708
+peak6			21.169	21.169	0.864	46732440
+peak11			14.415	14.414	0.880	74570456
+peak15			25.050	25.053	1.140	26427918
+peak18			21.059	21.058	1.254	19469688
+peak22			23.703	23.701	0.998	33333764
+peak26			21.823	21.823	0.880	10541540
+peak34			22.108	22.109	0.811	29157408
+peak44			18.488	18.488	0.576	8266436
+peak49			22.376	22.376	0.880	31358710
+peak54			19.138	19.135	1.592	41329644
+peak56			18.922	18.922	1.421	120815584
+peak58			19.284	19.284	1.418	575993024
+peak59			15.499	15.499	0.681	47415696
+peak62			18.183	18.183	1.456	29076056
+peak63			17.846	17.846	1.476	50666848
+peak64			23.554	23.554	1.059	32108270
+peak70			25.693	25.691	0.841	56042000
+peak76			22.799	22.799	0.150	32091572
+peak83			25.288	25.288	-0.109	16622138
+peak89			15.862	15.862	0.950	23491314
+peak96			15.659	15.657	1.047	25294622
+peak98			18.487	18.487	0.869	17655432
+peak108			22.160	22.160	0.854	37720280
+peak112			22.249	22.163	0.854	33495480
+peak117			23.442	23.442	0.768	191260304
+peak121			24.954	24.955	0.742	125060800
+peak125			20.077	20.073	-0.868	14019285
+peak127			13.669	13.669	0.023	74494192
+peak131			23.364	23.364	1.794	44070980
+peak134			19.702	19.702	-0.382	24534116
+peak142			28.182	28.182	0.511	17028976
+peak150			22.540	22.530	0.814	27135480
+peak157			26.925	26.925	1.005	65676796
+peak162			26.962	26.926	1.005	65676796
+peak164			20.537	20.537	1.110	30964936
+peak168			20.717	20.717	1.331	66086740
+peak172			17.429	17.429	1.064	26439246
+peak177			19.630	19.630	0.534	11416590
+peak182			12.015	12.014	0.156	175305520
+peak185			18.221	18.221	1.637	54307896
+peak188			18.521	18.521	1.080	11236747
+peak192			20.462	20.462	1.043	49768956
+peak196			19.353	19.353	1.272	7405271
+peak200			16.436	16.436	1.090	17800156
+peak205			20.877	20.875	0.984	115833056
+peak207			22.683	22.683	1.087	109487544
+peak209			23.394	23.394	1.342	24104426
+peak215			26.962	26.962	0.776	21456380
+peak218			26.925	26.961	0.772	21456380
+peak221			22.249	22.249	1.014	72064648
+peak222			22.160	22.249	1.013	69917440
+peak226			23.634	23.630	1.246	56497080
+peak232			23.849	23.848	1.003	25659720
+peak242			28.120	28.120	1.013	13503700
+peak252			21.409	21.404	-0.108	25192914
+peak260			21.418	21.409	-0.108	25192914
+peak261			25.406	25.406	0.414	25820068
+peak270			21.418	21.418	0.855	30818916
+peak274			21.409	21.415	0.852	30818916
+peak276			24.431	24.436	-0.120	4466256
+peak283			14.270	14.270	0.676	132309160
+peak285			22.636	22.636	0.719	26800612
+peak292			25.936	25.933	0.653	76417896
+peak298			24.231	24.231	0.562	79205984
+peak304			22.581	22.583	1.152	19432482
+peak316			24.085	24.085	1.260	72741160
+peak320			25.673	25.675	1.047	69502088
+peak324			17.274	17.274	0.040	66969052
+peak325			12.932	12.932	-0.587	41200456
+peak332			25.430	25.432	0.650	113852056
+peak343			25.978	25.978	0.667	119629344
+peak353			25.103	25.103	1.014	291232992
+peak358			25.775	25.775	1.018	251883536
+peak364			17.114	17.113	-0.066	14648239
+peak366			20.991	20.991	-0.320	24666500
+peak372			19.961	19.961	1.347	6927672
+peak374			23.916	23.916	1.454	20024374
+peak383			24.608	24.604	1.400	32119438
+peak389			19.168	19.167	-0.062	31451382
+peak399			19.484	19.484	-0.287	29358544
+peak405			21.141	21.143	0.767	62253132
+peak411			21.399	21.399	0.580	46174852
+peak417			18.513	18.511	0.254	25718126
+peak427			20.742	20.743	-0.315	17676042
+peak434			19.945	19.945	0.660	31520872
+peak444			20.972	20.973	0.589	19073502
+peak455			23.368	23.367	1.071	54800876
+peak459			26.262	26.262	0.942	28552306
+peak464			23.640	23.640	0.937	134612656
+peak473			25.807	25.807	0.944	88028064
+peak481			25.142	25.142	0.851	243936256
+peak488			24.868	24.868	0.777	187922224
+peak496			23.747	23.747	0.821	649865088
+peak497			24.594	24.594	0.874	603156864
+
+Non-diagonal NOEs
+===============
+Label Annotation            C1         C2         H2            Intensity      Clusters    Symmetry matches
+peak2       long     21.169001  20.724001   0.880000      20427854.000000        VX12.2    geminal cluster
+peak3       long     14.415000  20.728001   0.881000        964005.000000        VX12.2        peak12    
+peak4       long     25.693001  20.726999   0.879000       1423664.000000        VX12.2        peak71    
+peak5       long     23.554001  20.726999   0.881000       2379496.000000        VX12.2        peak65    
+peak7       long     20.728001  21.164000   0.863000      19983890.000000        VX12.1    geminal cluster
+peak8       long     14.415000  21.167000   0.864000       1679175.000000        VX12.1    peak13 peak14    Complex - not used
+peak9       long     25.693001  21.167000   0.863000       1077196.000000        VX12.1        peak72    
+peak10       long     23.554001  21.169001   0.864000       1610720.000000        VX12.1        peak66    
+peak12       long     20.728001  14.414000   0.881000       1268712.000000          IX23         peak3    
+peak13       long     21.169001  14.413000   0.880000       3073664.000000          IX23    peak8 peak19    Complex - not used
+peak14       long     21.059000  14.415000   0.881000       3001597.000000          IX23    peak8 peak19    Complex - not used
+peak16       long     23.702999  25.052000   1.142000       1637199.000000          AX24    No symmetry matches after reduction
+peak17       long     21.059000  25.049999   1.140000       2278902.000000          AX24    peak20 peak454    Complex - not used
+peak19       long     14.415000  21.059000   1.250000        758140.000000        VX25.1    peak13 peak14    Complex - not used
+peak20       long     25.049999  21.056999   1.253000       2510633.000000        VX25.1    peak17 peak484    Complex - not used
+peak21      short     23.702999  21.059000   1.251000       9183144.000000        VX25.1    geminal cluster
+peak23       long     25.049999  23.702000   0.996000       1902899.000000    VX25.2 LX168.2    geminal cluster
+peak24      short     21.059000  23.702000   0.995000      10006120.000000    VX25.2 LX168.2    geminal cluster
+peak25       long     18.488001  23.702999   0.998000       3306942.000000    VX25.2 LX168.2    peak45 peak103 peak104    Complex - not used
+peak27       long     22.108000  21.819000   0.882000      15493044.000000        VX28.1    geminal cluster
+peak28       long     23.849001  21.825001   0.880000       5763312.000000        VX28.1       peak233    
+peak29       long     28.120001  21.825001   0.880000       2841205.000000        VX28.1       peak243    
+peak30       long     25.406000  21.826000   0.884000       2902046.000000        VX28.1       peak262    
+peak31       long     21.409000  21.823999   0.881000       9133868.000000        VX28.1    peak253 peak271    Complex - not used
+peak32       long     24.431000  21.825001   0.880000       2634096.000000        VX28.1       peak277    
+peak33       long     21.417999  21.823000   0.881000       9133868.000000        VX28.1    peak253 peak271    Complex - not used
+peak35       long     21.823000  22.108999   0.810000       9554955.000000        VX28.2    geminal cluster
+peak36       long     22.375999  22.108000   0.808000       9227253.000000        VX28.2        peak50    
+peak37       long     18.488001  22.108999   0.811000       1952459.000000        VX28.2        peak47    
+peak38       long     23.849001  22.108000   0.810000       6075114.000000        VX28.2    peak234 peak235    Complex - not used
+peak39       long     28.120001  22.111000   0.811000       3381453.000000        VX28.2    peak244 peak245 peak247    Complex - not used
+peak40       long     25.406000  22.106001   0.811000       2126378.000000        VX28.2    peak263 peak264    Complex - not used
+peak41       long     21.409000  22.108000   0.815000       6713464.000000        VX28.2    peak254 peak272    Complex - not used
+peak42       long     24.431000  22.106001   0.811000       2269523.000000        VX28.2       peak278    
+peak43       long     21.417999  22.101999   0.811000       6713464.000000        VX28.2    peak254 peak272    Complex - not used
+peak45       long     23.702999  18.488001   0.572000        622880.000000        VX34.1    peak25 peak228 peak236    Complex - not used
+peak46       long     21.059000  18.485001   0.576000        863932.000000        VX34.1    geminal cluster
+peak47       long     22.108000  18.485001   0.573000        966349.000000        VX34.1        peak37    
+peak48      short     22.375999  18.488001   0.576000       6818290.000000        VX34.1    geminal cluster
+peak50       long     22.108000  22.372999   0.882000      17026692.000000        VX34.2        peak36    
+peak51      short     18.488001  22.374001   0.881000      13191011.000000        VX34.2    geminal cluster
+peak52       long     19.284000  22.374001   0.880000        195441.000000        VX34.2    No symmetry matches
+peak53       long     15.499000  22.375999   0.880000       1451932.000000        VX34.2        peak61    
+peak55       long     18.922001  19.138000   1.592000      12510914.000000          AX40        peak57    
+peak57       long     19.138000  18.921000   1.420000      46662704.000000          AX41        peak55    
+peak60       long     22.108000  15.498000   0.680000        839627.000000          IX52    No symmetry matches
+peak61       long     22.375999  15.499000   0.681000       1517051.000000          IX52        peak53    
+peak65       long     20.728001  23.554001   1.057000       2288139.000000        LX78.1         peak5    
+peak66       long     21.169001  23.556999   1.056000       2092704.000000        LX78.1        peak10    
+peak67      short     25.693001  23.552999   1.059000      19769992.000000        LX78.1    geminal cluster
+peak68       long     25.288000  23.552999   1.058000       2413637.000000        LX78.1    No symmetry matches after reduction
+peak69      short     15.862000  23.554001   1.059000       5486872.000000        LX78.1        peak91    
+peak71       long     20.728001  25.691000   0.840000       2366684.000000        LX78.2         peak4    
+peak72       long     21.169001  25.693001   0.841000       1746851.000000        LX78.2         peak9    
+peak73      short     23.554001  25.691999   0.837000      18912246.000000        LX78.2    geminal cluster
+peak74       long     25.288000  25.691999   0.841000        500860.000000        LX78.2    peak84 peak334 peak338    Complex - not used
+peak75       long     15.862000  25.693001   0.841000       4270526.000000        LX78.2        peak90    
+peak77       long     23.554001  22.799999   0.156000        689182.000000        LX81.1    geminal cluster
+peak78      short     25.288000  22.796000   0.153000      11842863.000000        LX81.1    geminal cluster
+peak79       long     15.862000  22.797001   0.156000       3700815.000000        LX81.1        peak93    
+peak80       long     17.429001  22.799000   0.154000       2052586.000000        LX81.1       peak173    
+peak81       long     19.629999  22.797001   0.156000        643425.000000        LX81.1    No symmetry matches
+peak82       long     12.015000  22.799000   0.156000        877778.000000        LX81.1       peak183    
+peak84       long     25.693001  25.285000  -0.107000       1419194.000000        LX81.2    peak74 peak323 peak359    Complex - not used
+peak85       long     23.554001  25.288000  -0.107000       1398533.000000        LX81.2    geminal cluster
+peak86      short     22.799000  25.285999  -0.109000      10791063.000000        LX81.2    geminal cluster
+peak87       long     15.862000  25.285000  -0.109000       5713538.000000        LX81.2        peak92    
+peak88       long     17.429001  25.288000  -0.111000        748302.000000        LX81.2    No symmetry matches
+peak90       long     25.693001  15.862000   0.953000       3989485.000000          IX95        peak75    
+peak91      short     23.554001  15.860000   0.950000       4973279.000000          IX95        peak69    
+peak92       long     25.288000  15.862000   0.952000       5165377.000000          IX95        peak87    
+peak93       long     22.799000  15.861000   0.952000       2681114.000000          IX95        peak79    
+peak94       long     15.659000  15.861000   0.950000       3602458.000000          IX95        peak97    
+peak95       long     20.077000  15.862000   0.950000        192586.000000          IX95       peak126    
+peak97       long     15.862000  15.659000   1.048000       8085966.000000          IX97        peak94    
+peak99       long     22.160000  18.488001   0.869000      13458545.000000       VX103.1    geminal cluster
+peak100       long     24.954000  18.487000   0.865000       1666759.000000       VX103.1       peak123    
+peak101       long     23.441999  18.487000   0.867000       2142577.000000       VX103.1       peak119    
+peak102       long     22.249001  18.490000   0.873000      11309898.000000       VX103.1    geminal cluster
+peak103       long     23.634001  18.487000   0.869000       4964130.000000       VX103.1    peak25 peak228    Complex - not used
+peak104       long     23.849001  18.490000   0.869000       3666911.000000       VX103.1    peak25 peak236    Complex - not used
+peak105       long     28.120001  18.487000   0.871000       6590384.000000       VX103.1       peak246    
+peak106       long     25.406000  18.483000   0.869000       4663614.000000       VX103.1       peak265    
+peak107       long     21.409000  18.487000   0.870000       2133426.000000       VX103.1    peak255 peak416    Complex - not used
+peak109       long     18.487000  22.158001   0.852000      12121829.000000       VX103.2    geminal cluster
+peak110       long     24.954000  22.160000   0.852000       1497004.000000       VX103.2       peak122    
+peak111       long     23.441999  22.167000   0.853000       3965639.000000       VX103.2       peak118    
+peak113       long     23.634001  22.160000   0.852000      10202148.000000       VX103.2    geminal cluster
+peak114       long     23.849001  22.160000   0.854000       6354356.000000       VX103.2    peak234 peak235    Complex - not used
+peak115       long     28.120001  22.162001   0.854000       5945976.000000       VX103.2    peak244 peak245 peak247    Complex - not used
+peak116       long     25.406000  22.162001   0.854000       2819632.000000       VX103.2    peak263 peak264    Complex - not used
+peak118       long     22.160000  23.443001   0.768000       1690854.000000       LX110.1       peak111    
+peak119       long     18.487000  23.441999   0.764000       1245166.000000       LX110.1       peak101    
+peak120      short     24.954000  23.441999   0.768000      64608036.000000       LX110.1    geminal cluster
+peak122       long     22.160000  24.955000   0.745000       1241488.000000       LX110.2       peak110    
+peak123       long     18.487000  24.954000   0.742000       1234150.000000       LX110.2       peak100    
+peak124      short     23.441999  24.954000   0.743000      52314908.000000       LX110.2    geminal cluster
+peak126       long     15.862000  20.072001  -0.867000        276276.000000         AX117        peak95    
+peak128       long     20.537001  13.669000   0.022000       7390162.000000         IX124       peak165    
+peak129       long     17.429001  13.672000   0.021000        670776.000000         IX124       peak174    
+peak130       long     19.629999  13.669000   0.023000       4325550.000000         IX124       peak178    
+peak132       long     19.702000  23.363001   1.793000        917918.000000         AX125       peak135    
+peak133       long     20.716999  23.364000   1.793000        630611.000000         AX125       peak169    
+peak135       long     23.364000  19.702000  -0.382000       1606962.000000       LX126.2       peak132    
+peak136      short     28.181999  19.701000  -0.380000      11734306.000000       LX126.2    geminal cluster
+peak137       long     26.924999  19.702000  -0.382000       4857830.000000       LX126.2    peak158 peak216    Complex - not used
+peak138       long     22.540001  19.700001  -0.381000       4204306.000000       LX126.2       peak151    
+peak139       long     19.353001  19.701000  -0.381000       1507978.000000       LX126.2    No symmetry matches
+peak140      short     16.436001  19.701000  -0.382000       6939998.000000       LX126.2       peak201    
+peak141       long     26.962000  19.702000  -0.382000       4857830.000000       LX126.2    peak158 peak216    Complex - not used
+peak143      short     19.702000  28.184999   0.512000       9423735.000000       LX126.1    geminal cluster
+peak144       long     26.924999  28.184000   0.511000       8749243.000000       LX126.1       peak159    
+peak145      short     22.540001  28.181999   0.515000       6606559.000000       LX126.1       peak152    
+peak146       long     19.353001  28.180000   0.511000        619116.000000       LX126.1    No symmetry matches
+peak147       long     16.436001  28.180000   0.517000       2391100.000000       LX126.1       peak202    
+peak148       long     26.962000  28.181999   0.511000       8749243.000000       LX126.1       peak159    
+peak149       long     23.393999  28.181999   0.508000       3002477.000000       LX126.1       peak210    
+peak151       long     19.702000  22.540001   0.812000       3295500.000000       LX130.1       peak138    
+peak152      short     28.181999  22.538000   0.811000       7192247.000000       LX130.1       peak145    
+peak153       long     26.924999  22.540001   0.814000      23780964.000000       LX130.1    No symmetry matches
+peak154       long     16.436001  22.546000   0.810000        783859.000000       LX130.1       peak203    
+peak155       long     26.962000  22.546000   0.814000      23780964.000000       LX130.1    No symmetry matches
+peak156       long     23.393999  22.540001   0.811000       3015273.000000       LX130.1       peak212    
+peak158       long     19.702000  26.921000   1.007000       1988542.000000       LX130.2    peak137 peak141    Complex - not used
+peak159       long     28.181999  26.924999   1.002000       4262588.000000       LX130.2    peak144 peak148    
+peak160      short     22.540001  26.924999   1.005000      18561648.000000       LX130.2    No symmetry matches
+peak161       long     16.436001  26.924999   1.004000        408752.000000       LX130.2    No symmetry matches
+peak163       long     23.393999  26.924999   1.005000       2359090.000000       LX130.2    geminal cluster
+peak165       long     13.669000  20.534000   1.112000       4915057.000000         AX135       peak128    
+peak166       long     20.716999  20.533001   1.112000      15394861.000000         AX135       peak170    
+peak167      short     19.629999  20.537001   1.110000       7261949.000000         AX135       peak179    
+peak169       long     23.364000  20.715000   1.332000        512859.000000         AX136       peak133    
+peak170       long     20.537001  20.715000   1.333000      30255262.000000         AX136       peak166    
+peak171       long     19.629999  20.716999   1.333000       8418725.000000         AX136       peak180    
+peak173       long     22.799000  17.427000   1.066000       1508369.000000         AX139        peak80    
+peak174       long     13.669000  17.426001   1.065000        561318.000000         AX139       peak129    
+peak175       long     19.629999  17.427000   1.067000       3286858.000000         AX139       peak181    
+peak176       long     12.015000  17.429001   1.064000       2795638.000000         AX139       peak184    
+peak178       long     13.669000  19.632000   0.537000       2609404.000000         AX140       peak130    
+peak179      short     20.537001  19.632000   0.534000       9885741.000000         AX140       peak167    
+peak180       long     20.716999  19.632000   0.532000       9901144.000000         AX140       peak171    
+peak181       long     17.429001  19.629999   0.534000       3848829.000000         AX140       peak175    
+peak183       long     22.799000  12.014000   0.154000        644688.000000         IX142        peak82    
+peak184       long     17.429001  12.015000   0.156000       7753078.000000         IX142       peak176    
+peak186       long     20.462000  18.222000   1.635000       8953036.000000         AX149       peak193    
+peak187       long     18.521000  18.223000   1.637000       6277856.000000         AX149       peak189    
+peak189       long     18.221001  18.520000   1.082000       4562082.000000       VX150.1       peak187    
+peak190      short     20.462000  18.520000   1.084000      11171944.000000       VX150.1    geminal cluster
+peak191       long     19.353001  18.521000   1.080000       3573852.000000       VX150.1    peak198 peak404    Complex - not used
+peak193       long     18.221001  20.466000   1.044000       9945217.000000       VX150.2       peak186    
+peak194      short     18.521000  20.466000   1.043000      13777710.000000       VX150.2    geminal cluster
+peak195       long     19.353001  20.462000   1.044000       3979184.000000       VX150.2       peak197    
+peak197       long     20.462000  19.351999   1.271000       2266065.000000         AX152       peak195    
+peak198       long     18.521000  19.351999   1.272000       2653733.000000         AX152    peak191 peak422    Complex - not used
+peak199       long     16.436001  19.353001   1.270000       1765630.000000         AX152       peak204    
+peak201      short     19.702000  16.433001   1.095000       5090960.000000         AX153       peak140    
+peak202       long     28.181999  16.433001   1.092000       2284448.000000         AX153       peak147    
+peak203       long     22.540001  16.436001   1.093000        819526.000000         AX153       peak154    
+peak204       long     19.353001  16.436001   1.090000       2034122.000000         AX153       peak199    
+peak206      short     22.683001  20.877001   0.984000      36699232.000000       VX158.2    geminal cluster
+peak208      short     20.877001  22.683001   1.088000      46854052.000000       VX158.1    geminal cluster
+peak210       long     28.181999  23.395000   1.340000       3130912.000000       LX160.1       peak149    
+peak211       long     26.924999  23.393999   1.342000      13763676.000000       LX160.1    geminal cluster
+peak212       long     22.540001  23.393000   1.341000       3109286.000000       LX160.1       peak156    
+peak213       long     26.962000  23.393000   1.341000      13763676.000000       LX160.1    geminal cluster
+peak214       long     23.634001  23.393999   1.340000       2974004.000000       LX160.1    peak229 peak469    Complex - not used
+peak216       long     19.702000  26.966000   0.779000       2469025.000000       LX160.2    peak137 peak141    Complex - not used
+peak217      short     28.181999  26.962000   0.773000       5303334.000000       LX160.2    No symmetry matches
+peak219      short     22.540001  26.959999   0.776000       6066900.000000       LX160.2    No symmetry matches
+peak220      short     23.393999  26.962000   0.771000       9267280.000000       LX160.2    No symmetry matches
+peak223       long     18.487000  22.247000   1.013000       4495624.000000       VX165.2    geminal cluster
+peak224      short     23.634001  22.247000   1.014000      23711366.000000       VX165.2    No symmetry matches
+peak225       long     28.120001  22.249001   1.014000       2957288.000000       VX165.2    peak244 peak245 peak247    Complex - not used
+peak227       long     22.160000  23.632000   1.240000      33974568.000000       VX165.1    geminal cluster
+peak228       long     18.487000  23.632000   1.246000       4170480.000000       VX165.1    peak45 peak103    Complex - not used
+peak229       long     23.393999  23.634001   1.243000       5932112.000000       VX165.1    peak214 peak458    Complex - not used
+peak230       long     22.249001  23.634001   1.247000      33835892.000000       VX165.1    geminal cluster
+peak231       long     28.120001  23.638000   1.246000       2818262.000000       VX165.1       peak248    
+peak233       long     21.823000  23.849001   1.002000       5500836.000000    VX25.2 LX168.2        peak28    
+peak234       long     22.108000  23.849001   1.001000       9363091.000000    VX25.2 LX168.2    peak38 peak114    Complex - not used
+peak235       long     22.160000  23.847000   1.008000       8863622.000000    VX25.2 LX168.2    peak38 peak114    Complex - not used
+peak236       long     18.487000  23.849001   1.003000       3758515.000000    VX25.2 LX168.2    peak45 peak104    Complex - not used
+peak237       long     28.120001  23.841000   1.005000       7501841.000000    VX25.2 LX168.2    geminal cluster
+peak238       long     25.406000  23.849001   1.003000       5386632.000000    VX25.2 LX168.2    No symmetry matches
+peak239       long     21.409000  23.841999   1.005000       6110920.000000    VX25.2 LX168.2    peak256 peak273    Complex - not used
+peak240       long     24.431000  23.841999   1.003000       1506555.000000    VX25.2 LX168.2       peak279    
+peak241       long     21.417999  23.849001   1.003000       6110920.000000    VX25.2 LX168.2    peak256 peak273    Complex - not used
+peak243       long     21.823000  28.122999   1.016000       1850638.000000       LX168.1        peak29    
+peak244       long     22.108000  28.125000   1.012000       7708638.000000       LX168.1    peak39 peak115 peak225    Complex - not used
+peak245       long     22.160000  28.124001   1.014000       9005145.000000       LX168.1    peak39 peak115 peak225    Complex - not used
+peak246       long     18.487000  28.120001   1.012000       5709108.000000       LX168.1       peak105    
+peak247       long     22.249001  28.127001   1.012000       7471386.000000       LX168.1    peak39 peak115 peak225    Complex - not used
+peak248       long     23.634001  28.120001   1.013000       4034030.000000       LX168.1       peak231    
+peak249       long     23.849001  28.122000   1.013000       5826829.000000       LX168.1    geminal cluster
+peak250       long     25.406000  28.121000   1.012000       2117659.000000       LX168.1       peak267    
+peak251       long     21.409000  28.120001   1.012000       2099744.000000       LX168.1       peak257    
+peak253       long     21.823000  21.403999  -0.108000       4984591.000000       LX172.1    peak31 peak33    Complex - not used
+peak254       long     22.108000  21.409000  -0.107000       4563931.000000       LX172.1    peak41 peak43    Complex - not used
+peak255       long     18.487000  21.405001  -0.105000       1781056.000000       LX172.1    peak107 peak424    Complex - not used
+peak256       long     23.849001  21.409000  -0.108000       4109632.000000       LX172.1    peak239 peak241    Complex - not used
+peak257       long     28.120001  21.407000  -0.105000       1780188.000000       LX172.1       peak251    
+peak258      short     25.406000  21.408001  -0.105000      12956997.000000       LX172.1    geminal cluster
+peak259       long     24.431000  21.408001  -0.103000       2501896.000000       LX172.1    geminal cluster
+peak262       long     21.823000  25.405001   0.415000       3321424.000000       LX172.2        peak30    
+peak263       long     22.108000  25.403000   0.414000       4636670.000000       LX172.2    peak40 peak116    Complex - not used
+peak264       long     22.160000  25.403000   0.416000       4606384.000000       LX172.2    peak40 peak116    Complex - not used
+peak265       long     18.487000  25.403000   0.416000       4364742.000000       LX172.2       peak106    
+peak266      short     23.849001  25.406000   0.414000       4240076.000000       LX172.2    No symmetry matches after reduction
+peak267       long     28.120001  25.403999   0.410000       2635667.000000       LX172.2       peak250    
+peak268      short     21.409000  25.406000   0.414000      12653952.000000       LX172.2    geminal cluster
+peak269       long     24.431000  25.405001   0.414000       1169403.000000       LX172.2       peak280    
+peak271       long     21.823000  21.417000   0.854000       6044533.000000       LX179.1    peak31 peak33    Complex - not used
+peak272       long     22.108000  21.413000   0.854000       5512623.000000       LX179.1    peak41 peak43    Complex - not used
+peak273       long     23.849001  21.415001   0.855000       2339343.000000       LX179.1    peak239 peak241    Complex - not used
+peak275      short     24.431000  21.417999   0.855000       6739868.000000       LX179.1    No symmetry matches
+peak277       long     21.823000  24.436001  -0.126000       2609912.000000       LX179.2        peak32    
+peak278       long     22.108000  24.434999  -0.124000       2380334.000000       LX179.2        peak42    
+peak279       long     23.849001  24.438000  -0.128000       1054671.000000       LX179.2       peak240    
+peak280       long     25.406000  24.431999  -0.126000       1113283.000000       LX179.2       peak269    
+peak281       long     21.409000  24.431000  -0.123000       6915538.000000       LX179.2    geminal cluster
+peak282       long     21.417999  24.431000  -0.126000       6915538.000000       LX179.2    geminal cluster
+peak284       long     22.636000  14.271000   0.676000       3701401.000000         IX194       peak286    
+peak286       long     14.270000  22.636000   0.712000       1628976.000000         AX199       peak284    
+peak287       long     25.936001  22.632999   0.719000       1953266.000000         AX199    peak293 peak344 peak474    Complex - not used
+peak288       long     24.231001  22.632000   0.715000       2545105.000000         AX199    peak299 peak317    Complex - not used
+peak289       long     21.399000  22.634001   0.710000       1901943.000000         AX199       peak412    
+peak290       long     20.742001  22.635000   0.719000       2405281.000000         AX199       peak428    
+peak291      short     18.513000  22.634001   0.714000       5431171.000000         AX199       peak418    
+peak293       long     22.636000  25.934000   0.652000       5518212.000000    LX201.2 LX215.1    peak287 peak309 peak312    Complex - not used
+peak294       long     24.231001  25.934000   0.652000      17482234.000000    LX201.2 LX215.1    No symmetry matches
+peak295       long     19.167999  25.936001   0.653000       3496157.000000    LX201.2 LX215.1       peak390    
+peak296       long     20.742001  25.937000   0.654000       6791986.000000    LX201.2 LX215.1    No symmetry matches
+peak297       long     18.513000  25.937000   0.653000       6048025.000000    LX201.2 LX215.1    No symmetry matches
+peak299       long     22.636000  24.229000   0.568000       2915702.000000       LX201.1    peak288 peak306    Complex - not used
+peak300      short     25.936001  24.231001   0.567000      25851326.000000       LX201.1    geminal cluster
+peak301       long     19.167999  24.230000   0.567000       2320072.000000       LX201.1       peak391    
+peak302       long     20.742001  24.232000   0.568000       4004816.000000       LX201.1       peak430    
+peak303      short     18.513000  24.231001   0.568000       6022539.000000       LX201.1       peak420    
+peak305       long     25.673000  22.582001   1.151000       2214421.000000         AX205    peak321 peak474    Complex - not used
+peak306       long     24.084999  22.580999   1.151000       1438987.000000         AX205    peak299 peak317    Complex - not used
+peak307      short     12.932000  22.583000   1.150000       8868304.000000         AX205       peak326    
+peak308       long     25.430000  22.580999   1.152000       7189108.000000         AX205       peak333    
+peak309       long     25.978001  22.580999   1.158000       7852420.000000         AX205    peak293 peak344    Complex - not used
+peak310       long     20.972000  22.586000   1.147000       4803668.000000         AX205       peak445    
+peak311       long     19.945000  22.580999   1.152000       2631323.000000         AX205       peak435    
+peak312       long     25.806999  22.587000   1.148000       3398865.000000         AX205    peak293 peak321 peak474    Complex - not used
+peak313       long     23.639999  22.580999   1.152000        397704.000000         AX205       peak465    
+peak314       long     24.868000  22.587999   1.152000       1017954.000000         AX205       peak489    
+peak315       long     25.142000  22.580999   1.152000       1447909.000000         AX205       peak482    
+peak317       long     22.580999  24.083000   1.262000       1605323.000000       LX206.1    peak288 peak306    Complex - not used
+peak318      short     25.673000  24.084000   1.263000      23407006.000000       LX206.1    geminal cluster
+peak319       long     19.961000  24.084999   1.262000       1535107.000000       LX206.1       peak373    
+peak321       long     22.580999  25.673000   1.044000        680431.000000       LX206.2    peak305 peak312    Complex - not used
+peak322      short     24.084999  25.674000   1.047000      21265924.000000       LX206.2    geminal cluster
+peak323       long     25.430000  25.674000   1.047000      16248000.000000       LX206.2    peak84 peak334 peak338    Complex - not used
+peak326      short     22.580999  12.932000  -0.586000      13126714.000000         IX213       peak307    
+peak327       long     25.673000  12.930000  -0.587000       2958800.000000         IX213    No symmetry matches
+peak328      short     25.430000  12.932000  -0.588000       9410970.000000         IX213       peak335    
+peak329      short     25.978001  12.931000  -0.587000      10853991.000000         IX213       peak345    
+peak330      short     20.972000  12.932000  -0.583000       8645444.000000         IX213       peak446    
+peak331       long     19.945000  12.930000  -0.587000       4241854.000000         IX213       peak436    
+peak333       long     22.580999  25.434000   0.651000       9880758.000000       LX215.2       peak308    
+peak334       long     25.673000  25.434000   0.654000      13804362.000000       LX215.2    peak74 peak323 peak359    Complex - not used
+peak335      short     12.932000  25.433001   0.654000       8070198.000000       LX215.2       peak328    
+peak336       long     25.978001  25.434000   0.651000      28407032.000000       LX215.2    geminal cluster
+peak337       long     25.103001  25.430000   0.653000       8583073.000000       LX215.2       peak354    
+peak338       long     25.775000  25.434999   0.651000      15667906.000000       LX215.2    peak74 peak323 peak359    Complex - not used
+peak339       long     20.990999  25.430000   0.650000       6619937.000000       LX215.2    peak368 peak447    Complex - not used
+peak340      short     23.916000  25.430000   0.649000       9363788.000000       LX215.2       peak375    
+peak341       long     20.972000  25.431000   0.651000       6477282.000000       LX215.2    peak368 peak447    Complex - not used
+peak342      short     19.945000  25.431999   0.651000       6002535.000000       LX215.2       peak437    
+peak344       long     22.580999  25.978001   0.666000      11184881.000000    LX201.2 LX215.1    peak287 peak309    Complex - not used
+peak345      short     12.932000  25.976000   0.667000       8793001.000000    LX201.2 LX215.1       peak329    
+peak346       long     25.430000  25.978001   0.666000      28446142.000000    LX201.2 LX215.1    geminal cluster
+peak347       long     25.775000  25.979000   0.667000      42951020.000000    LX201.2 LX215.1       peak360    
+peak348       long     23.916000  25.975000   0.665000       7191821.000000    LX201.2 LX215.1       peak376    
+peak349       long     20.972000  25.978001   0.667000      11841708.000000    LX201.2 LX215.1    No symmetry matches
+peak350      short     19.945000  25.976999   0.671000      10352387.000000    LX201.2 LX215.1       peak438    
+peak351       long     24.868000  25.976999   0.668000       5010574.000000    LX201.2 LX215.1       peak490    
+peak352       long     25.142000  25.978001   0.667000       7954860.000000    LX201.2 LX215.1       peak483    
+peak354       long     25.430000  25.104000   1.012000       6864836.000000       LX230.2       peak337    
+peak355      short     25.775000  25.106001   1.013000      55359480.000000       LX230.2    geminal cluster
+peak356      short     23.916000  25.101999   1.014000      13871295.000000       LX230.2       peak377    
+peak357       long     19.483999  25.103001   1.015000        565843.000000       LX230.2    No symmetry matches
+peak359       long     25.430000  25.775999   1.018000      12233130.000000       LX230.1    peak84 peak334 peak338    Complex - not used
+peak360       long     25.978001  25.775000   1.017000      24001014.000000       LX230.1       peak347    
+peak361      short     25.103001  25.774000   1.017000      57104508.000000       LX230.1    geminal cluster
+peak362       long     20.990999  25.774000   1.018000       1945879.000000       LX230.1    peak367 peak369 peak451    Complex - not used
+peak363      short     23.916000  25.775000   1.016000      18828572.000000       LX230.1       peak378    
+peak365      short     20.990999  17.114000  -0.066000      11081039.000000       VX231.1    geminal cluster
+peak367       long     25.673000  20.995001  -0.324000       1728962.000000       VX231.2    peak362 peak475    Complex - not used
+peak368       long     25.430000  20.990999  -0.324000       1059632.000000       VX231.2    peak339 peak341    Complex - not used
+peak369       long     25.775000  20.992001  -0.320000       2981302.000000       VX231.2    peak362 peak475    Complex - not used
+peak370      short     17.114000  20.990999  -0.321000      10150667.000000       VX231.2    geminal cluster
+peak371       long     23.916000  20.993999  -0.320000        983940.000000       VX231.2       peak379    
+peak373       long     24.084999  19.959999   1.347000        841139.000000         AX236       peak319    
+peak375      short     25.430000  23.914000   1.457000       6371306.000000         AX245       peak340    
+peak376       long     25.978001  23.916000   1.454000       5923960.000000         AX245       peak348    
+peak377      short     25.103001  23.915001   1.456000      10114000.000000         AX245       peak356    
+peak378      short     25.775000  23.914000   1.456000      13297370.000000         AX245       peak363    
+peak379       long     20.990999  23.916000   1.455000        777345.000000         AX245       peak371    
+peak380       long     24.608000  23.915001   1.454000       2784192.000000         AX245       peak384    
+peak381       long     19.483999  23.914000   1.452000        948862.000000         AX245       peak400    
+peak382       long     19.167999  23.916000   1.450000        660099.000000         AX245       peak392    
+peak384       long     23.916000  24.605000   1.401000       2891336.000000         AX246       peak380    
+peak385       long     19.483999  24.607000   1.405000       3281379.000000         AX246       peak401    
+peak386       long     19.167999  24.608000   1.405000       2968696.000000         AX246       peak393    
+peak387       long     21.141001  24.606001   1.401000       1600095.000000         AX246       peak406    
+peak388       long     18.513000  24.606001   1.400000        649902.000000         AX246       peak421    
+peak390       long     25.936001  19.167999  -0.061000       4350310.000000       VX247.1       peak295    
+peak391       long     24.231001  19.162001  -0.062000       2176315.000000       VX247.1       peak301    
+peak392       long     23.916000  19.167999  -0.058000        686401.000000       VX247.1       peak382    
+peak393       long     24.608000  19.163000  -0.058000       2669090.000000       VX247.1       peak386    
+peak394       long     19.483999  19.164000  -0.062000      17120746.000000       VX247.1    geminal cluster
+peak395       long     21.399000  19.167999  -0.062000       2186175.000000       VX247.1       peak413    
+peak396       long     21.141001  19.167000  -0.061000       3788133.000000       VX247.1       peak408    
+peak397      short     20.742001  19.167000  -0.060000       7253756.000000       VX247.1       peak431    
+peak398      short     18.513000  19.167999  -0.062000       5035622.000000       VX247.1       peak423    
+peak400       long     23.916000  19.483000  -0.285000        940068.000000       VX247.2       peak381    
+peak401       long     24.608000  19.482000  -0.285000       2701050.000000       VX247.2       peak385    
+peak402       long     19.167999  19.482000  -0.287000      16277939.000000       VX247.2    geminal cluster
+peak403       long     21.141001  19.483999  -0.287000       1817428.000000       VX247.2       peak407    
+peak404       long     18.513000  19.483999  -0.284000       4085916.000000       VX247.2    peak191 peak422    Complex - not used
+peak406       long     24.608000  21.141001   0.768000       1510341.000000       VX248.1       peak387    
+peak407       long     19.483999  21.141001   0.771000       2351252.000000       VX248.1       peak403    
+peak408       long     19.167999  21.139999   0.768000       3662979.000000       VX248.1       peak396    
+peak409       long     21.399000  21.139999   0.770000      29062204.000000       VX248.1    geminal cluster
+peak410       long     18.513000  21.141001   0.768000       2354436.000000       VX248.1       peak425    
+peak412       long     22.636000  21.393000   0.581000       2807662.000000       VX248.2       peak289    
+peak413       long     19.167999  21.399000   0.580000       2063326.000000       VX248.2       peak395    
+peak414       long     21.141001  21.396999   0.584000      30607020.000000       VX248.2    geminal cluster
+peak415       long     20.742001  21.396999   0.580000       3589171.000000       VX248.2       peak432    
+peak416       long     18.513000  21.399000   0.580000       4577057.000000       VX248.2    peak107 peak424    Complex - not used
+peak418      short     22.636000  18.511000   0.256000       5576282.000000       VX249.1       peak291    
+peak419      short     25.936001  18.513000   0.253000       6974668.000000       VX249.1    short_peak135    
+peak420      short     24.231001  18.511999   0.253000       4988980.000000       VX249.1       peak303    
+peak421       long     24.608000  18.511999   0.253000        867698.000000       VX249.1       peak388    
+peak422       long     19.483999  18.513000   0.256000       4151858.000000       VX249.1    peak198 peak404    Complex - not used
+peak423      short     19.167999  18.514000   0.257000       4428068.000000       VX249.1       peak398    
+peak424       long     21.399000  18.514000   0.257000       3817108.000000       VX249.1    peak255 peak416    Complex - not used
+peak425       long     21.141001  18.513000   0.256000       2759386.000000       VX249.1       peak410    
+peak426      short     20.742001  18.510000   0.256000      11710513.000000       VX249.1    geminal cluster
+peak428       long     22.636000  20.742001  -0.312000       1929768.000000       VX249.2       peak290    
+peak429      short     25.936001  20.742001  -0.312000       6507214.000000       VX249.2    short_peak131    
+peak430       long     24.231001  20.740000  -0.313000       3526170.000000       VX249.2       peak302    
+peak431      short     19.167999  20.740999  -0.315000       6860880.000000       VX249.2       peak397    
+peak432       long     21.399000  20.740999  -0.317000       2532261.000000       VX249.2       peak415    
+peak433      short     18.513000  20.742001  -0.315000      11539577.000000       VX249.2    geminal cluster
+peak435       long     22.580999  19.941999   0.660000       3234712.000000       VX261.1       peak311    
+peak436       long     12.932000  19.945000   0.661000       3858289.000000       VX261.1       peak331    
+peak437      short     25.430000  19.945999   0.661000       6853595.000000       VX261.1       peak342    
+peak438      short     25.978001  19.945000   0.660000      12573367.000000       VX261.1       peak350    
+peak439      short     20.972000  19.941999   0.665000      11440308.000000       VX261.1    geminal cluster
+peak440       long     25.806999  19.944000   0.660000       7141496.000000       VX261.1       peak476    
+peak441       long     23.639999  19.945000   0.667000       2934658.000000       VX261.1       peak467    
+peak442      short     24.868000  19.948000   0.660000      15171522.000000       VX261.1       peak492    
+peak443       long     25.142000  19.945000   0.664000       7081818.000000       VX261.1       peak485    
+peak445       long     22.580999  20.972000   0.589000       4450006.000000       VX261.2       peak310    
+peak446      short     12.932000  20.972000   0.585000       7456849.000000       VX261.2       peak330    
+peak447       long     25.430000  20.976000   0.589000       5644970.000000       VX261.2    peak339 peak341    Complex - not used
+peak448      short     25.978001  20.972000   0.585000      10609106.000000       VX261.2    short_peak131    
+peak449      short     19.945000  20.973000   0.589000      10324810.000000       VX261.2    geminal cluster
+peak450       long     26.261999  20.969999   0.589000       6855404.000000       VX261.2       peak460    
+peak451       long     25.806999  20.975000   0.584000       6053840.000000       VX261.2    peak362 peak475    Complex - not used
+peak452       long     23.639999  20.972000   0.584000       2777138.000000       VX261.2       peak466    
+peak453       long     24.868000  20.974001   0.582000       4458397.000000       VX261.2       peak491    
+peak454       long     25.142000  20.972000   0.589000       2531062.000000       VX261.2    peak17 peak484    Complex - not used
+peak456      short     26.261999  23.368000   1.072000      15864886.000000       LX266.1    geminal cluster
+peak457       long     25.806999  23.367001   1.071000      19081810.000000       LX266.1       peak478    
+peak458       long     23.639999  23.368000   1.076000      19614356.000000       LX266.1    peak229 peak469    Complex - not used
+peak460       long     20.972000  26.261000   0.941000       5258735.000000       LX266.2       peak450    
+peak461      short     23.368000  26.261999   0.941000      17587282.000000       LX266.2    geminal cluster
+peak462       long     25.806999  26.261000   0.941000       7906299.000000       LX266.2       peak477    
+peak463       long     23.639999  26.261999   0.942000       5707588.000000       LX266.2       peak468    
+peak465       long     22.580999  23.645000   0.937000        959807.000000       LX270.1       peak313    
+peak466       long     20.972000  23.639999   0.933000       3140160.000000       LX270.1       peak452    
+peak467       long     19.945000  23.642000   0.937000       3078330.000000       LX270.1       peak441    
+peak468       long     26.261999  23.641001   0.938000       7709329.000000       LX270.1       peak463    
+peak469       long     23.368000  23.639999   0.937000      19985956.000000       LX270.1    peak214 peak458    Complex - not used
+peak470      short     25.806999  23.639999   0.941000      37586512.000000       LX270.1    geminal cluster
+peak471       long     24.868000  23.639999   0.937000       7190474.000000       LX270.1    No symmetry matches
+peak472       long     25.142000  23.639999   0.937000       7526271.000000       LX270.1    No symmetry matches after reduction
+peak474       long     22.580999  25.806000   0.944000        973602.000000       LX270.2    peak287 peak305 peak312    Complex - not used
+peak475       long     20.972000  25.804001   0.942000       4015746.000000       LX270.2    peak367 peak369 peak451    Complex - not used
+peak476       long     19.945000  25.806999   0.944000       3525533.000000       LX270.2       peak440    
+peak477       long     26.261999  25.805000   0.942000       9940877.000000       LX270.2       peak462    
+peak478       long     23.368000  25.806999   0.943000      14735773.000000       LX270.2       peak457    
+peak479      short     23.639999  25.802999   0.943000      32848926.000000       LX270.2    geminal cluster
+peak480       long     24.868000  25.806999   0.944000       7850880.000000       LX270.2       peak493    
+peak482       long     22.580999  25.143999   0.850000       1001553.000000       LX272.1       peak315    
+peak483       long     25.978001  25.142000   0.850000       4140864.000000       LX272.1       peak352    
+peak484       long     20.972000  25.139999   0.851000       2130238.000000       LX272.1    peak20 peak454    Complex - not used
+peak485       long     19.945000  25.139999   0.852000       6243766.000000       LX272.1       peak443    
+peak486       long     23.639999  25.142000   0.851000       6734912.000000       LX272.1    geminal cluster
+peak487       long     24.868000  25.141001   0.851000      54131824.000000       LX272.1    geminal cluster
+peak489       long     22.580999  24.867001   0.778000       2003054.000000       LX272.2       peak314    
+peak490       long     25.978001  24.867001   0.778000       7989143.000000       LX272.2       peak351    
+peak491       long     20.972000  24.868000   0.777000       5471814.000000       LX272.2       peak453    
+peak492      short     19.945000  24.865999   0.773000      14983724.000000       LX272.2       peak442    
+peak493       long     25.806999  24.868000   0.772000      11189746.000000       LX272.2       peak480    
+peak494      short     23.639999  24.864000   0.777000       9148296.000000       LX272.2    geminal cluster
+peak495       long     25.142000  24.863001   0.777000      54895944.000000       LX272.2    geminal cluster
+short_peak41      short     18.473000  22.230000   0.870000      11068893.000000    VX34.2 VX103.2    geminal cluster
+short_peak42      short     23.649000  22.231001   0.866000       5793546.000000    VX34.2 VX103.2    No symmetry matches
+short_peak121      short     21.402000  14.242000   0.674000      11484327.000000         IX194    short_peak190    
+short_peak122      short     21.150999  14.247000   0.675000       8486818.000000         IX194    short_peak186    
+short_peak128      short     24.250999  25.952999   0.665000      14193356.000000    LX201.2 LX215.1    geminal cluster
+short_peak131      short     20.825001  25.965000   0.667000       6880234.000000    LX201.2 LX215.1    peak429 peak448    
+short_peak133      short     19.483999  25.954000   0.664000       3047434.000000    LX201.2 LX215.1    short_peak184    
+short_peak135      short     18.479000  25.952000   0.667000       4983500.000000    LX201.2 LX215.1       peak419    
+short_peak182      short     20.735001  19.507999  -0.286000       3619336.000000       VX247.2    short_peak198    
+short_peak184      short     25.951000  19.525000  -0.286000       2914998.000000       VX247.2    short_peak133    
+short_peak186      short     14.238000  21.138000   0.769000       5640576.000000       VX248.1    short_peak122    
+short_peak190      short     14.248000  21.417000   0.583000       6204514.000000       VX248.2    short_peak121    
+short_peak198      short     19.440001  20.754000  -0.320000       4071428.000000       VX249.2    short_peak182    
+---------------------------------------------------------------------------------------
+
+Resonance assignments statistics (at the residue level)
+===========================================================
+[no. of valid assignment options=1]:52  | ▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧
+[no. of valid assignment options=2]:23  | ▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧
+[no. of valid assignment options=3]:6   | ▧▧▧▧▧▧
+[no. of valid assignment options=4]:1   | ▧
+[no. of valid assignment options>4]:5   | ▧▧▧▧▧
+
+Resonance assignments
+==============================
+Label               Residue Type   Carbon    Hydrogen  Valid assignment options      
+
+VX12S               V              20.728001 0.881000  V12S                          
+VX12R               V              21.169001 0.864000  V12R                          
+IX23                I              14.415000 0.880000  I23                           
+AX24                A              25.049999 1.140000  A117 A135 A211 A24 A41 A49 A69 A76
+VX25S               V              23.702999 0.998000  V158S V25S                    
+VX25R               V              21.059000 1.250000  V158R V25R                    
+VX28S               V              22.108000 0.811000  V28S                          
+VX28R               V              21.823000 0.880000  V28R                          
+VX34S               V              22.375999 0.880000  V34S                          
+VX34R               V              18.488001 0.576000  V34R                          
+AX40                A              19.138000 1.592000  A24 A40 A41                   
+AX41                A              18.922001 1.420000  A24 A40 A41                   
+AX49                A              19.284000 1.418000  A117 A135 A211 A24 A41 A49 A69 A76
+IX52                I              15.499000 0.681000  I52                           
+AX69                A              18.183001 1.456000  A117 A135 A211 A24 A41 A49 A69 A76
+AX76                A              17.846001 1.476000  A117 A135 A211 A24 A41 A49 A69 A76
+LX78S               L              25.693001 0.841000  L78S                          
+LX78R               L              23.554001 1.059000  L78R                          
+LX81S               L              25.288000 -0.109000 L81S                          
+LX81R               L              22.799000 0.156000  L81R                          
+IX95                I              15.862000 0.950000  I95                           
+IX97                I              15.659000 1.047000  I97                           
+VX103S              V              22.160000 0.854000  V103S V165S                   
+VX103R              V              18.487000 0.869000  V103R V165R                   
+LX110R              L              23.441999 0.768000  L110R                         
+LX110S              L              24.954000 0.742000  L110S                         
+AX117               A              20.077000 -0.868000 A117 A76                      
+IX124               I              13.669000 0.023000  I124 I142                     
+AX125               A              23.364000 1.794000  A125                          
+LX126S              L              19.702000 -0.382000 L126S L130S                   
+LX126R              L              28.181999 0.511000  L126R L130R                   
+LX130R              L              22.540001 0.814000  L126R L130R L160R             
+LX130S              L              26.924999 1.005000  L126S L130S L160S             
+AX135               A              20.537001 1.110000  A135 A136 A140                
+AX136               A              20.716999 1.333000  A117 A135 A136 A140           
+AX139               A              17.429001 1.064000  A139                          
+AX140               A              19.629999 0.534000  A135 A136 A140                
+IX142               I              12.015000 0.156000  I124 I142                     
+AX149               A              18.221001 1.637000  A149                          
+VX150R              V              18.521000 1.080000  V150R                         
+VX150S              V              20.462000 1.044000  V150S                         
+AX152               A              19.353001 1.272000  A152                          
+AX153               A              16.436001 1.090000  A153                          
+VX158S              V              20.877001 0.984000  V158S V25S                    
+VX158R              V              22.683001 1.088000  V158R V25R                    
+LX160R              L              23.393999 1.342000  L126R L160R                   
+LX160S              L              26.962000 0.776000  L126S L160S                   
+VX165S              V              22.249001 1.014000  V103S V165S                   
+VX165R              V              23.634001 1.246000  V103R V165R                   
+LX168S              L              23.849001 1.003000  L168S L172S                   
+LX168R              L              28.120001 1.012000  L168R L172R                   
+LX172R              L              21.409000 -0.108000 L168R L172R                   
+LX172S              L              25.406000 0.414000  L168S L172S                   
+LX179R              L              21.417999 0.855000  L179R                         
+LX179S              L              24.431000 -0.126000 L179S                         
+IX194               I              14.270000 0.676000  I194                          
+AX199               A              22.636000 0.719000  A199                          
+LX201S              L              25.936001 0.653000  L201S                         
+LX201R              L              24.231001 0.568000  L201R                         
+AX205               A              22.580999 1.152000  A205                          
+LX206R              L              24.084999 1.262000  L206R                         
+LX206S              L              25.673000 1.047000  L206S                         
+AX211               A              17.274000 0.040000  A117 A135 A211 A24 A41 A49 A69 A76
+IX213               I              12.933000 -0.588000 I213                          
+LX215S              L              25.430000 0.651000  L215S                         
+LX215R              L              25.978001 0.667000  L215R                         
+LX230S              L              25.103001 1.014000  L230S                         
+LX230R              L              25.775000 1.018000  L230R                         
+VX231R              V              17.114000 -0.066000 V231R                         
+VX231S              V              20.990999 -0.320000 V231S                         
+AX236               A              19.961000 1.347000  A236                          
+AX245               A              23.916000 1.454000  A245                          
+AX246               A              24.608000 1.400000  A246                          
+VX247R              V              19.167999 -0.062000 V247R                         
+VX247S              V              19.483999 -0.287000 V247S                         
+VX248R              V              21.141001 0.768000  V248R                         
+VX248S              V              21.399000 0.580000  V248S                         
+VX249R              V              18.513000 0.256000  V249R                         
+VX249S              V              20.742001 -0.315000 V249S                         
+VX261R              V              19.945000 0.660000  V261R                         
+VX261S              V              20.972000 0.589000  V261S                         
+LX266R              L              23.368000 1.071000  L266R L270R                   
+LX266S              L              26.261999 0.942000  L266S L270S                   
+LX270R              L              23.639999 0.937000  L266R L270R                   
+LX270S              L              25.806999 0.944000  L266S L270S                   
+LX272R              L              25.142000 0.851000  L272R                         
+LX272S              L              24.868000 0.777000  L272S                         
+---------------------------------------------------------------------------------------
+
